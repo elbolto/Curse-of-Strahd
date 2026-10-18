@@ -59,6 +59,20 @@ Narri findet den Walzer am Cembalo. Die **Geister aller Bewohner** erscheinen un
 > [!question] Vermutung (nicht bestätigt)
 > Klaras Brief deutet an, dass sie schwanger ist („ein weiteres Mitglied dieser Familie“). [[Brief von Strahd an seinen Diener|Strahds Brief]] erwähnt einen Ehemann, der „einen Bastard zeugte“. Möglicherweise hängt beides zusammen.
 
+## Zusammenfassung der Session (Narri)
+> [!quote] Zum Vorlesen beim nächsten Mal
+> Das Haus hörte nicht auf, Walzer zu spielen. Irgendwo aus dem Wintergarten, immer dieselbe Melodie.
+>
+> Ich wurde von einem Besen angegriffen. Ich erwähne das nur der Vollständigkeit halber.
+>
+> Im Schlafzimmer lag etwas unter der Decke. Nur Blut, kein Körper. Daneben ein Brief der Kinderfrau Klara. Sie bat um Urlaub, weil sie ein weiteres Mitglied „dieser Familie“ zur Welt bringen wollte. Hinter einem Spiegel führte eine Treppe zum Dachboden. Dort fanden wir die beiden Kinder von der Straße. Oder das, was von ihnen übrig war: zwei Skelette und zwei kleine Geister. Man hatte sie eingesperrt, und sie sind dort gestorben. Jetzt gehen sie mit uns. In uns.
+>
+> Im Zimmer der Mutter fand ich einen Bernsteinsplitter und eine Notiz von Elisabeth an eine gewisse Drasha. Darin ging es um ein Biest, „das Herz dieses Hauses“, das um Mitternacht erwacht. Dann fand ich den Walzer am Cembalo, und alle Toten des Hauses tanzten.
+>
+> Unten im Keller vier Gräber, eines fehlte. Knochen, Feldbetten, ein Säulensaal. Und ganz hinten ein Altar im Wasser, voller Tentakel, darauf ein Bündel. Als wir die Tür öffneten, verstummten die Rufe.
+>
+> Fünf. Und zwei, die man nicht sieht. Alle da.
+
 > [!abstract]- Originalnotizen
 > Wir gehen weiter durch das Haus.
 >

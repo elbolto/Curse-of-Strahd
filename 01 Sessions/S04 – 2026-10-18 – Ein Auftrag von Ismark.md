@@ -58,6 +58,18 @@ Es sind **mehrere Zombies**, dazu greifen uns auch **Schwärme von Körperteilen
 - Wer hat im Haus geschrien, und warum hört der Schrei auf?
 - Woran ist der Bürgermeister gestorben?
 
+## Zusammenfassung der Session (Narri)
+> [!quote] Zum Vorlesen beim nächsten Mal
+> Wir wachten in der Taverne auf, und schon wartete Arbeit auf uns. Ismark, der Sohn des Bürgermeisters. Sein Vater ist tot, und bald soll er selbst Bürgermeister sein, obwohl er fürchtet, dass ihn niemand ernst nimmt. Seine Schwester Irena wurde von Strahd gebissen. Wir sollen sie nach Vallaki bringen. Wir haben ja gesagt. Wir sagen immer ja.
+>
+> Vorher kauften wir bei Bildrath ein, der alles zum zehnfachen Preis verkauft. In Barovia ist offenbar sogar Hoffnung teuer.
+>
+> Auf der Straße hörten wir ein Heulen: die Irre Marie. Ihre Tochter Gertruda ist verschwunden. Vierzehn Jahre alt, in ihrem schönsten Kleid, die Puppe hat sie zurückgelassen. Marie glaubt, dass sie bei Strahd ist. Wir haben versprochen, sie zu suchen. „Du hörst das auch, oder?“, fragte ich sie. Keine Antwort.
+>
+> Dann ein Schrei aus einem Haus. Wir gingen hinein, natürlich. Zombies, mehrere, und dazu ganze Schwärme von Körperteilen, die ebenfalls angriffen. Irgendwann während des Kampfes hörte der Schrei auf.
+>
+> Dort stehen wir jetzt. Mitten im Kampf. Ich zähle noch, solange ich kann.
+
 > [!abstract]- Originalnotizen
 > Wir wachen in der Taverne auf.
 >

@@ -44,6 +44,20 @@ Danach sind wir in der [[Taverne in Barovia|Taverne]] und unterhalten uns mit je
 > [!question] Vermutung (nicht bestätigt)
 > Walter könnte das **Biest** aus der [[Notiz von Elisabeth an Drasha]] sein, „das Herz dieses Hauses“, und auch der kleine Bruder, den wir retten sollten.
 
+## Zusammenfassung der Session (Narri)
+> [!quote] Zum Vorlesen beim nächsten Mal
+> Im Keller wartete Walter auf uns. Der Sohn des Hauses. Oder das, was dieses Haus aus ihm gemacht hat: ein Berg aus Fleisch, der einmal ein Kind war.
+>
+> Wir haben gekämpft. Ich habe gebetet, und ausnahmsweise hat sie geantwortet, mit Licht. „Ah“, sagte ich. „Jetzt bist du plötzlich da.“
+>
+> Danach war es still im Haus der Durst. Was immer dort geschehen ist, es ist vorbei. Für die Kinder in uns hoffe ich, dass es auch für Walter vorbei ist.
+>
+> Aethren sagt, er habe Strahd gesehen. Ich habe nicht gefragt, wie er aussah. Manche Dinge will man nicht beschreiben hören, bevor man sie selbst sehen muss.
+>
+> Am Ende saßen wir in der Taverne und redeten mit jemandem. Ein Dach über dem Kopf. Für Barovia ist das schon viel.
+>
+> Eins. Zwei. Drei. Vier. Fünf. Alle da.
+
 > [!abstract]- Originalnotizen
 > haben gegen den mans gekämpft und damit das tutorial abgeschlossen. Aethren sieht Strahd und wir sind in der Taverne und haben mit jemandem geredet
 >

@@ -51,6 +51,20 @@ Auf der Straße sprechen uns zwei Kinder an. In ihrem Haus gebe es ein Monster, 
 - Wer oder was sind die [[Priester von Osybus]]?
 - Zu welcher Windmühle gehört die Eigentumsbescheinigung?
 
+## Zusammenfassung der Session (Narri)
+> [!quote] Zum Vorlesen beim nächsten Mal
+> Wir kamen auf verschiedenen Wegen, und doch alle am selben Ort an: Barovia. Ein Ort, an dem selbst der Nebel müde aussieht.
+>
+> Gleich hinter den Mauern lag ein Toter. Bei ihm ein Brief, gesiegelt mit einem „D“. Tote brauchen keine Post mehr. Wer ihn wohl erwartet hat?
+>
+> Dann zwei Kinder auf der Straße. In ihrem Haus sei ein Monster, sagten sie, und wir müssten ihren kleinen Bruder retten. „Ja, ja“, sagte ich zu ihr. „Ich sehe es. Schon wieder Kinder.“ Sie hat nicht geantwortet. Sie antwortet nie, wenn es darauf ankommt.
+>
+> Das Haus der Familie Durst. Überall eine eingravierte Windmühle. Oben ein verborgener Raum, darin ein Skelett und ein Brief, unterschrieben von Strahd von Zarovich. Er nannte seinen Diener einen Wurm. Ich mochte ihn sofort nicht.
+>
+> In einer Truhe fanden wir Urkunden für das Haus und eine Windmühle und das Testament von Gustaf und Elizabeth Durst. Alles für ihre zwei Kinder.
+>
+> Und irgendwo der Name „Priester von Osybus“. Priester. Natürlich.
+
 > [!abstract]- Originalnotizen
 > Wir treffen uns alle auf verschiedenen Wegen
 > Wir kommen nach Barovia und laufen durch die Stadtmauern

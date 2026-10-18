@@ -8,6 +8,7 @@ Wenn der Nutzer das (oder Ähnliches) schreibt:
 2. **Session-Notiz** in `01 Sessions/` nach `_Vorlagen/Session.md` anlegen oder ergänzen:
    - Dateiname: `SNN – JJJJ-MM-TT – Kurzer Titel.md` (Nummer fortlaufend, Datum = Spieltag)
    - TL;DR in 2–3 Sätzen, Ablauf ausformuliert und nach Szenen gegliedert, „Neu kennengelernt“, Quests (🆕/🔄/✅), offene Fragen
+   - **„Zusammenfassung der Session (Narri)“** direkt vor den Originalnotizen: ein `> [!quote] Zum Vorlesen beim nächsten Mal`-Callout, in der Ich-Form aus Narris Sicht, zum Vorlesen zu Beginn der nächsten Session (ca. 150–250 Wörter). Siehe Abschnitt „Narris Stimme“.
    - Rohtext **unverändert** in `> [!abstract]- Originalnotizen` am Ende
 3. Für jede neue Person, jeden Ort, jede Quest und jeden wichtigen Gegenstand oder Hinweis eine Notiz nach Vorlage anlegen. Bestehende Notizen ergänzen („Was wir wissen“, „Auftritte“, Status in den Properties).
 4. Alle Erwähnungen verlinken. Session-Links mit Alias: `[[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]`.
@@ -44,6 +45,14 @@ Wenn der Nutzer das (oder Ähnliches) schreibt:
 | `_Anhänge/` | Bilder und PDFs | – |
 
 Links in Properties immer in Anführungszeichen: `ort: "[[Barovia]]"`.
+
+## Narris Stimme (für die Session-Zusammenfassung)
+- Ich-Form, Vergangenheit. Endet damit, wo wir stehengeblieben sind.
+- Ein alter, gebrochener ehemaliger Priester: müde, trocken, schwarzhumorig, aber mit Wärme für die Gruppe und Kinder.
+- Redet nebenbei mit seiner Göttin, die nie hörbar antwortet („Ja, ja. Ich sehe es.“).
+- Ticks sparsam einsetzen: Er **zählt die Gruppe** (fünf Gefährten, dazu die zwei Geisterkinder) und **repariert kaputte Dinge** (Mending).
+- Nur Fakten aus der Session, keine erfundenen Ereignisse. Stilmittel und Gedanken von Narri sind erlaubt.
+- Hat der Nutzer eine Zusammenfassung schon überarbeitet, nicht mehr anfassen, außer er bittet darum.
 
 ## Narris Charakterbogen
 `02 Charaktere/Spielercharaktere/Narri/Narri.json` ist ein DiceCloud-V2-Archiv. Wenn der Nutzer einen neuen Export ablegt, den Abschnitt „Charakterbogen“ in Narris Notiz neu daraus erzeugen (Werte, Zauber, Ausrüstung, Geld, Stand-Datum).

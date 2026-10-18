@@ -31,5 +31,9 @@ tags:
 ## Offene Fragen
 - 
 
+## Zusammenfassung der Session (Narri)
+> [!quote] Zum Vorlesen beim nächsten Mal
+> 
+
 > [!abstract]- Originalnotizen
 > 
