@@ -13,7 +13,7 @@ Wenn der Nutzer das (oder Ähnliches) schreibt:
 4. Alle Erwähnungen verlinken. Session-Links mit Alias: `[[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]`.
 5. `Kampagnen-Übersicht.md` aktualisieren: „Wo wir gerade stehen“, aktive Quests, Session-Tabelle, große offene Fragen.
 6. Verarbeitete Inbox-Notizen löschen. Der Rohtext steckt in der Session-Notiz, und git hat die Historie.
-7. Prüfen, dass keine Links ins Leere zeigen. Dann committen (nicht pushen, außer der Nutzer bittet darum).
+7. Prüfen, dass keine Links ins Leere zeigen. Dann committen und zu GitHub pushen (vom Nutzer so gewünscht).
 8. Dem Nutzer kurz berichten: was neu ist, welche Rückfragen offen sind (Widersprüche, unklare Namen).
 
 ## Inhaltliche Regeln
