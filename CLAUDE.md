@@ -7,7 +7,7 @@ Wenn der Nutzer das (oder Ähnliches) schreibt:
 1. Alle Notizen in `00 Inbox/` lesen (außer `Hier reinschreiben.md`). Falls der Nutzer Notizen woanders abgelegt hat, sind auch neue oder geänderte Dateien außerhalb der Struktur gemeint (`git status` prüfen).
 2. **Session-Notiz** in `01 Sessions/` nach `_Vorlagen/Session.md` anlegen oder ergänzen:
    - Dateiname: `SNN – JJJJ-MM-TT – Kurzer Titel.md` (Nummer fortlaufend, Datum = Spieltag)
-   - TL;DR in 2–3 Sätzen, Ablauf ausformuliert und nach Szenen gegliedert, „Neu kennengelernt“, Quests (🆕/🔄/✅), offene Fragen
+   - TL;DR in 2–3 Sätzen, Ablauf ausformuliert und nach Szenen gegliedert, „Neu kennengelernt“, Quests (Neu / Fortschritt / Erledigt), offene Fragen
    - **„Zusammenfassung der Session (Narri)“** direkt vor den Originalnotizen: ein `> [!quote] Zum Vorlesen beim nächsten Mal`-Callout, in der Ich-Form aus Narris Sicht, zum Vorlesen zu Beginn der nächsten Session (ca. 150–250 Wörter). Siehe Abschnitt „Narris Stimme“.
    - Rohtext **unverändert** in `> [!abstract]- Originalnotizen` am Ende
 3. Für jede neue Person, jeden Ort, jede Quest und jeden wichtigen Gegenstand oder Hinweis eine Notiz nach Vorlage anlegen. Bestehende Notizen ergänzen („Was wir wissen“, „Auftritte“, Status in den Properties).
@@ -28,6 +28,7 @@ Wenn der Nutzer das (oder Ähnliches) schreibt:
 - Spielercharaktere heißen `Charaktername - Spieler.md`. Solange ein Charakter keinen Namen hat: `Charakter von <Spieler>.md` (derzeit Sophia und Özgür). Sobald der Name bekannt ist, umbenennen, Property `charaktername` setzen und die Übersicht anpassen.
 - Eine Inbox-Notiz kann eine laufende Session fortsetzen (z. B. „sind immer noch in Session 4“). Dann die bestehende Session-Notiz ergänzen und den Rohtext an ihre Originalnotizen anhängen.
 - Briefe und Dokumente bekommen eine eigene Notiz in `05 Gegenstände & Hinweise/` mit dem Text in einem `> [!quote]`-Callout.
+- **Keine Emojis**, nirgends: nicht in Überschriften, Listen, Tabellen oder Texten. Statusangaben als Text (z. B. **Neu:**, **Fortschritt:**, **Erledigt:**).
 - Perspektive: „wir“ = die Gruppe. „Ich“ im Rohtext = Narri.
 
 ## Struktur

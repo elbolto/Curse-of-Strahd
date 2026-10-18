@@ -42,7 +42,7 @@ tags:
 > **Ausrüstung:** Kettenrüstung, Schild, Morgenstern, leichte Armbrust, Amulett (heiliges Symbol), 3× Seil, 2× Weihwasser, Heiltrank, Schriftrolle *Bless*, Goldring, 7 Rationen
 > **Geld:** 1057 GM · 6 SM · 2 KM
 >
-> 📎 Vollständiger Bogen: [[Narri.json]] (DiceCloud-Archiv, zum Re-Import in DiceCloud)
+> Vollständiger Bogen: [[Narri.json]] (DiceCloud-Archiv, zum Re-Import in DiceCloud)
 
 ## Glaube
 Narri glaubt an eine der folgenden Göttinnen. Das bleibt bewusst offen, bis der Charakter mehr geformt ist:
@@ -86,7 +86,7 @@ Da die Göttin vielleicht buchstäblich durch ihn hindurchkommt, hat er eine seh
 > *Im Kampf:* „Du hättest das verhindern können.“
 > *Heilt jemanden.* „Ah. Jetzt bist du plötzlich da.“
 
-### Er zählt Menschen ⭐
+### Er zählt Menschen (Favorit)
 Er zählt ständig die Gruppe, anfangs ganz unauffällig.
 
 > *Beim Loslaufen:* „Eins, zwei, drei, vier, fünf.“

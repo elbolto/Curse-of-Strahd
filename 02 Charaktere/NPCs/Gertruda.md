@@ -13,7 +13,7 @@ tags:
 > [!info] Steckbrief
 > **Rolle:** Tochter der [[Irre Marie|Irren Marie]]
 > **Alter:** 14 Jahre
-> **Zustand:** ❓ vermisst → [[Gertruda finden]]
+> **Zustand:** vermisst → [[Gertruda finden]]
 
 ## Was wir wissen
 - Sie ist von zu Hause weggegangen.

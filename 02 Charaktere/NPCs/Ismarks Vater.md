@@ -15,7 +15,7 @@ tags:
 > [!info] Steckbrief
 > **Rolle:** ehemaliger Bürgermeister von [[Barovia]]
 > **Familie:** Vater von [[Ismark]] und [[Irena]]
-> **Zustand:** ✝️ tot, liegt in einem Holzsarg in der Küche des [[Herrenhaus des Bürgermeisters|Herrenhauses]]
+> **Zustand:** tot, liegt in einem Holzsarg in der Küche des [[Herrenhaus des Bürgermeisters|Herrenhauses]]
 > **Name:** noch unbekannt
 
 ## Was wir wissen

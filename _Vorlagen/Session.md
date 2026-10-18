@@ -24,9 +24,9 @@ tags:
 - **Gegenstände & Hinweise:**
 
 ## Quests
-- 🆕 
-- 🔄 
-- ✅ 
+- **Neu:** 
+- **Fortschritt:** 
+- **Erledigt:** 
 
 ## Offene Fragen
 - 

@@ -14,7 +14,7 @@ tags:
 > **Alter:** 18/19 Jahre
 > **Aussehen:** langes, kastanienbraunes Haar
 > **Familie:** Schwester von [[Ismark]]
-> **Zustand:** ⚠️ von [[Strahd]] **zweimal** gebissen
+> **Zustand:** von [[Strahd]] **zweimal** gebissen
 
 ## Was wir wissen
 - Strahd kam **zweimal** ins [[Herrenhaus des Bürgermeisters|Herrenhaus]] und hat sie **beide Male gebissen**, obwohl er eigentlich keine Häuser betreten kann. Er hat irgendeinen **Trick** gefunden.

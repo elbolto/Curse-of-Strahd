@@ -47,7 +47,7 @@ Narri findet den Walzer am Cembalo. Die **Geister aller Bewohner** erscheinen un
 - **Gegenstände & Hinweise:** [[Brief von Klara]], [[Bernsteinsplitter]], [[Notiz von Elisabeth an Drasha]]
 
 ## Quests
-- 🔄 [[Das Durst-Haus]]: Die Kinder sind tot, ihre Geister begleiten uns. Was mit dem kleinen Bruder ist, ist noch offen.
+- **Fortschritt:** [[Das Durst-Haus]]: Die Kinder sind tot, ihre Geister begleiten uns. Was mit dem kleinen Bruder ist, ist noch offen.
 
 ## Offene Fragen
 - Wer liegt nicht in der fehlenden Grabkammer?

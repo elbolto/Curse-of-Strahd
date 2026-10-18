@@ -34,7 +34,7 @@ Danach sind wir in der [[Taverne in Barovia|Taverne]] und unterhalten uns mit je
 - **Personen:** Walter, Sohn der Familie Durst → [[Familie Durst]]
 
 ## Quests
-- ✅ [[Das Durst-Haus]]: abgeschlossen
+- **Erledigt:** [[Das Durst-Haus]]: abgeschlossen
 
 ## Offene Fragen
 - Wie ist Walter zum Fleischmonster geworden?

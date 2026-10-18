@@ -43,7 +43,7 @@ Auf der Straße sprechen uns zwei Kinder an. In ihrem Haus gebe es ein Monster, 
 - **Fraktionen:** [[Priester von Osybus]] (nur der Name)
 
 ## Quests
-- 🆕 [[Das Durst-Haus]]: den kleinen Bruder der Kinder retten
+- **Neu:** [[Das Durst-Haus]]: den kleinen Bruder der Kinder retten
 
 ## Offene Fragen
 - Was steht im [[Brief mit D-Siegel]], und wer ist die Leiche?

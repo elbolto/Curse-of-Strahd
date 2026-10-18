@@ -104,9 +104,9 @@ In einem modrigen Zimmer finden wir die Falltür, und [[Aethren - René|Aethren]
 - **Lore:** [[Morgenfürst und Mutter Nacht]]
 
 ## Quests
-- 🆕 [[Irena nach Vallaki bringen]]: Auftraggeber [[Ismark]]
-- 🆕 [[Den Bürgermeister begraben]]: Irenas Bedingung vor der Abreise
-- 🆕 [[Gertruda finden]]: für die [[Irre Marie]]
+- **Neu:** [[Irena nach Vallaki bringen]]: Auftraggeber [[Ismark]]
+- **Neu:** [[Den Bürgermeister begraben]]: Irenas Bedingung vor der Abreise
+- **Neu:** [[Gertruda finden]]: für die [[Irre Marie]]
 
 ## Offene Fragen
 - Wer ist die ausgemergelte Gestalt in der Krypta?
