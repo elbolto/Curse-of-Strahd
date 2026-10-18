@@ -1,0 +1,1 @@
+Schnösel groß sehr viktorianisch, mit Zylinder und Anzug, geldgeil

@@ -1,0 +1,1 @@
+Sehr große Gestalt, große Rüstung mit Hellebarde in der Hand

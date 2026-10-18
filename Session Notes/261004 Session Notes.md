@@ -1,0 +1,1 @@
+haben gegen den mans gekämpft und damit das tutorial abgeschlossen. Aethren sieht Strahd und wir sind in der Taverne und haben mit jemandem geredet

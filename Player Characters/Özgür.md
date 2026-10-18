@@ -1,0 +1,1 @@
+Lange zerzauste weiss grüne haare und bart, zerrissene kleidung, plebelhaft sieht er aus, mensch aber scheint anders

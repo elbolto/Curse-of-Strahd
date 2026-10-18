@@ -1,0 +1,1 @@
+Irena wurde von [[Strahd]] gebissen, jetzt ist es alles unsicher was passieren wird. Wir sollen sie eskortieren nach [[Vallaki]] 
