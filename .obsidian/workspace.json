@@ -8,63 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f6e7a765ddbb3cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/261004 Session Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "261004 Session Notes"
-            }
-          },
-          {
-            "id": "647a6a441b1ccf88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Issmark.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Issmark"
-            }
-          },
-          {
             "id": "cb1bcc4b536a57d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orte/Barovia.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Barovia"
-            }
-          },
-          {
-            "id": "d26973bcde683235",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/261018 Session Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "261018 Session Notes"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,30 +184,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "d26973bcde683235",
+  "active": "cb1bcc4b536a57d9",
   "lastOpenFiles": [
-    "README.md",
-    "Session Notes/261004 Session Notes.md",
-    "NPCs/Issmark.md",
-    "NPCs/Strahd.md",
-    "NPCs/Irena.md",
-    "NPCs/Gertruda.md",
-    "NPCs/Irre Marie.md",
+    "CLAUDE.md",
+    "00 Inbox/Hier reinschreiben.md",
+    "_Vorlagen/Hinweis.md",
+    "_Vorlagen/Quest.md",
+    "_Vorlagen/Ort.md",
+    "_Vorlagen/NPC.md",
+    "_Vorlagen/Session.md",
+    "🏠 Kampagnen-Übersicht.md",
+    "06 Lore & Fraktionen/Priester von Osybus.md",
+    "05 Gegenstände & Hinweise/Windmühlen-Symbol.md",
+    "05 Gegenstände & Hinweise/Brief mit D-Siegel.md",
+    "05 Gegenstände & Hinweise/Testament der Familie Durst.md",
+    "05 Gegenstände & Hinweise/Bernsteinsplitter.md",
+    "05 Gegenstände & Hinweise/Notiz von Elisabeth an Drasha.md",
+    "05 Gegenstände & Hinweise/Brief von Klara.md",
+    "05 Gegenstände & Hinweise/Brief von Strahd an seinen Diener.md",
+    "04 Quests/Gertruda finden.md",
+    "04 Quests/Irena nach Vallaki bringen.md",
+    "04 Quests/Das Durst-Haus.md",
+    "03 Orte/Barovia/Taverne in Barovia.md",
+    "03 Orte/Barovia/Durst-Haus.md",
+    "02 Charaktere/NPCs/Familie Durst.md",
+    "01 Sessions/S03 – 2026-10-04 – Abschluss im Durst-Haus.md",
     "Orte/Barovia.md",
-    "Orte/Borovia - Bildraths Kaufladen.md",
-    "Orte/Vallaki.md",
     "Session Notes/261018 Session Notes.md",
-    "Player Characters/Helena Aldric - Anna.md",
-    "Player Characters/Özgür.md",
-    "Player Characters/Aethren - René.md",
-    "NPCs",
-    "Orte",
-    "Session Notes/260831 Session Notes.md",
-    "Session Notes/260920 Session Notes.md",
-    "Player Characters/Herr Guphry - Castor.md",
-    "Player Characters/Narri - Elbolto.md",
-    "Player Characters/Sophia.md",
-    "Session Notes",
-    "Player Characters"
+    "02 Charaktere/Spielercharaktere/Narri/Narri.json",
+    "02 Charaktere/Spielercharaktere/Narri/Narri.pdf",
+    "02 Charaktere/NPCs/Ismark.md",
+    "_Anhänge",
+    "_Vorlagen",
+    "06 Lore & Fraktionen",
+    "05 Gegenstände & Hinweise",
+    "04 Quests",
+    "03 Orte/Vallaki",
+    "03 Orte/Barovia",
+    "03 Orte"
   ]
 }
