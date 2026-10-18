@@ -24,6 +24,7 @@ tags:
 
 ## In der Kampagne
 - [[S03 – 2026-10-04 – Abschluss im Durst-Haus|S03]]: **sieht [[Strahd]]**
+- [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: trägt den Sarg zur Kirche und bricht die Falltür zur Krypta auf
 
 > [!abstract]- Originalnotiz
 > Hochelf

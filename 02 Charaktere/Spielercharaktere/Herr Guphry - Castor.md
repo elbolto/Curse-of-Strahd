@@ -15,7 +15,7 @@ tags:
 > **Auftreten:** ein Schnösel, geldgeil
 
 ## In der Kampagne
-- *(noch keine Einträge)*
+- [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: bleibt mit Irena im Herrenhaus und folgt später zur Kirche
 
 > [!abstract]- Originalnotiz
 > Schnösel groß sehr viktorianisch, mit Zylinder und Anzug, geldgeil

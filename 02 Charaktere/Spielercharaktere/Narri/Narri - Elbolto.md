@@ -110,6 +110,7 @@ Das ist lustig und thematisch stark: Er versucht ständig, Dinge zu reparieren, 
 ## In der Kampagne
 - [[S01 – 2026-08-31 – Das Durst-Haus|S01]]: findet eine Leiche mit dem [[Brief mit D-Siegel]]
 - [[S02 – 2026-09-20 – Die Geister der Durst-Kinder|S02]]: wird von einem Besen angegriffen, findet den [[Bernsteinsplitter]] und den Walzer am Cembalo
+- [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: trägt den Sarg des Bürgermeisters zur [[Kirche von Barovia|Kirche]] und steigt in die Krypta
 - **Besitzt:** [[Bernsteinsplitter]]
 
 ## Offene Fragen

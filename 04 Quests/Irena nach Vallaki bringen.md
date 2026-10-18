@@ -16,9 +16,10 @@ tags:
 [[Ismark]] bittet uns, seine Schwester [[Irena]] nach [[Vallaki]] zu eskortieren. Sie wurde von [[Strahd]] gebissen.
 
 ## Verlauf
-- [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: Auftrag angenommen, Einkauf bei [[Bildraths Laden|Bildrath]]. Auf dem Weg kämpfen wir in einem Haus gegen Zombies und Schwärme von Körperteilen (läuft noch).
+- [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: Auftrag angenommen, Einkauf bei [[Bildraths Laden|Bildrath]]. Wir besiegen Zombies und Körperteile und treffen Irena im Herrenhaus. Sie will zuerst ihren Vater begraben. → [[Den Bürgermeister begraben]]
 
 ## Nächste Schritte
-- [ ] Zombieangriff überstehen
-- [ ] Irena abholen
+- [x] Zombieangriff überstehen
+- [x] Irena im Herrenhaus treffen
+- [ ] [[Den Bürgermeister begraben]]
 - [ ] Nach Vallaki reisen
