@@ -6,7 +6,7 @@ tags:
 # 🦇 Curse of Strahd
 
 > [!danger] Wo wir gerade stehen (Ende S04, 18.10.2026)
-> Wir haben [[Irena]] im [[Herrenhaus des Bürgermeisters|Herrenhaus]] gefunden. Bevor sie mit nach [[Vallaki]] kommt, soll ihr Vater begraben werden. Narri, Aethren, der Charakter von Özgür und [[Ismark]] haben den Sarg zur [[Kirche von Barovia|Kirche]] gebracht. Priester [[Donawitsch]] hat dort seinen Sohn im Keller eingesperrt. Wir sind gerade **in die Krypta hinabgestiegen**, und in der Ecke kauert eine **ausgemergelte Gestalt**. Der Rest der Gruppe ist vom Herrenhaus aus unterwegs zur Kirche.
+> Wir haben [[Irena]] im [[Herrenhaus des Bürgermeisters|Herrenhaus]] gefunden. Bevor sie mit nach [[Vallaki]] kommt, soll ihr Vater begraben werden. Narri, Aethren, der Charakter von Özgür und [[Ismark]] haben den Sarg zur [[Kirche von Barovia|Kirche]] gebracht. Priester [[Donawitsch]] hat dort seinen Sohn im Keller eingesperrt. Wir sind gerade **in die Krypta hinabgestiegen**, und in der Ecke kauert eine **ausgemergelte Gestalt**. Der Rest der Gruppe ist **mit Irena** vom Herrenhaus aus unterwegs zur Kirche.
 >
 > ⚠️ **Stimmung in der Gruppe:** angespannt. [[Helena Aldric - Anna|Helenas]] Dark Gift ist erwacht, und der Streit darüber, ob wir ihr trauen können, ist nur vertagt.
 
@@ -38,14 +38,14 @@ views:
 | 1 | 31.08.2026 | [[S01 – 2026-08-31 – Das Durst-Haus\|Das Durst-Haus]] | Ankunft in Barovia, Strahds Brief |
 
 ## 🧙 Die Gruppe
-| Charakter | Spieler | Kurz |
-|---|---|---|
-| [[Narri - Elbolto\|Narri]] | Elbolto | Aasimar-Grabkleriker, sucht seinen Glauben |
-| [[Aethren - René\|Aethren]] | René | Hochelf mit goldener Maske, Pakt mit einer Göttin |
-| [[Herr Guphry - Castor\|Herr Guphry]] | Castor | Viktorianischer Schnösel, geldgeil |
-| [[Helena Aldric - Anna\|Helena Aldric]] | Anna | Junge Dame, groß und mager, ⚠️ Dark Gift |
-| [[Charakter von Sophia\|*noch ohne Namen*]] | Sophia | Riesige Gestalt mit Hellebarde |
-| [[Charakter von Özgür\|*noch ohne Namen*]] | Özgür | Wild, weiß-grünes Haar, „scheint anders“ |
+| Charakter                                   | Spieler | Kurz                                              |
+| ------------------------------------------- | ------- | ------------------------------------------------- |
+| [[Narri - Elbolto\|Narri]]                  | Elbolto | Aasimar-Grabkleriker, sucht seinen Glauben        |
+| [[Aethren - René\|Aethren]]                 | René    | Hochelf mit goldener Maske, Pakt mit einer Göttin |
+| [[Herr Guphry - Castor\|Herr Guphry]]       | Castor  | Viktorianischer Schnösel, geldgeil                |
+| [[Helena Aldric - Anna\|Helena Aldric]]     | Anna    | Junge Dame, groß und mager, ⚠️ Dark Gift, [[Magischer Mantel\|mag. Mantel]] |
+| [[Charakter von Sophia\|*noch ohne Namen*]] | Sophia  | Riesige Gestalt mit Hellebarde                    |
+| [[Charakter von Özgür\|*noch ohne Namen*]]  | Özgür   | Wild, weiß-grünes Haar, „scheint anders“          |
 
 Dazu kommen **die Geister der beiden Durst-Kinder** als Companions (seit S02).
 
@@ -77,4 +77,4 @@ views:
 ## 🗺️ Schnellzugriff
 **Orte:** [[Barovia]] · [[Durst-Haus]] · [[Taverne in Barovia]] · [[Bildraths Laden]] · [[Herrenhaus des Bürgermeisters]] · [[Kirche von Barovia]] · [[Vallaki]]
 **Lore:** [[Morgenfürst und Mutter Nacht]] · [[Priester von Osybus]]
-**Hinweise:** [[Brief von Strahd an seinen Diener]] · [[Brief von Klara]] · [[Notiz von Elisabeth an Drasha]] · [[Bernsteinsplitter]] · [[Testament der Familie Durst]]
+**Hinweise:** [[Brief von Strahd an seinen Diener]] · [[Brief von Klara]] · [[Notiz von Elisabeth an Drasha]] · [[Bernsteinsplitter]] · [[Magischer Mantel]] · [[Testament der Familie Durst]]

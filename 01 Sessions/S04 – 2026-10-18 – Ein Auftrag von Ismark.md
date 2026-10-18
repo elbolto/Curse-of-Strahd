@@ -52,7 +52,7 @@ Als wir weitergehen, hören wir einen Schrei aus einem Haus in der Nähe. Wir ge
 Mitten im Kampf **erwacht [[Helena Aldric - Anna|Helenas]] Dark Gift**. Sie stürmt ins erste Obergeschoss und greift auf dem Weg den [[Charakter von Özgür|Charakter von Özgür]] an. Am Ende besiegen wir **alle Zombies und alle Körperteile**.
 
 ### Helena ist besessen
-Helenas Dark Gift aktiviert sich erneut, und sie ist **wieder besessen**. Sie rennt mit einem Affenzahn nach oben ins 1. OG. Dort liegt die Person, die aufgehört hat zu schreien. Sie ist leider **tot**. Helena **stiehlt ihren Mantel**, rennt aus dem Haus und die Straße entlang. **[[Ismark]] schießt einen Bolzen** und streckt sie nieder.
+Helenas Dark Gift aktiviert sich erneut, und sie ist **wieder besessen**. Sie rennt mit einem Affenzahn nach oben ins 1. OG. Dort liegt die Person, die aufgehört hat zu schreien. Sie ist leider **tot**, wir kamen zu spät. Helena **stiehlt ihren [[Magischer Mantel|Mantel]]**. Der Mantel ist **magisch** und gibt **+1 auf Rettungswürfe, Angriffe und RK**. Dann rennt sie aus dem Haus und die Straße entlang. **[[Ismark]] schießt einen Bolzen** und streckt sie nieder.
 
 Helena kommt wieder zu sich. **Wir streiten uns alle.** Die halbe Gruppe zerfällt, weil wir glauben, Helena nicht vertrauen zu können. Am Ende „vertragen“ wir uns, oder besser gesagt: Wir **vertagen die Diskussion**. Für die Person im Haus konnten wir nichts mehr tun.
 
@@ -83,10 +83,10 @@ Bevor wir aufbrechen, möchte Irena, dass ihr **Vater begraben** wird, und zwar 
 | [[Helena Aldric - Anna\|Helena]] | [[Charakter von Özgür]] |
 | | [[Ismark]] |
 
-Später entscheiden sich die anderen doch, vom Herrenhaus aus **ebenfalls zur Kirche** zu gehen, und machen sich auf den Weg.
+Später entscheiden sich die anderen doch, vom Herrenhaus aus **ebenfalls zur Kirche** zu gehen, und machen sich **zusammen mit Irena** auf den Weg.
 
 ### Die Kirche
-Die [[Kirche von Barovia|Kirche am Stadtrand]] ist äußerst ramponiert. Die schweren Holztüren am Haupteingang sind mit **Krallenspuren bedeckt und vom Feuer verkohlt**. Drinnen liegt ein dunkler Korridor mit **4 Türen** zu angrenzenden Kammern (in den Notizen: „6 mal 4 Kammern“). Er führt zur **Kapelle**. Von **unter dem Holzboden** hören wir einen Schrei.
+Die [[Kirche von Barovia|Kirche am Stadtrand]] ist äußerst ramponiert. Die schweren Holztüren am Haupteingang sind mit **Krallenspuren bedeckt und vom Feuer verkohlt**. Drinnen liegt ein dunkler, etwa **6 × 4 m** großer Eingangsflur mit **4 Türen** zu angrenzenden Kammern. Er führt zur **Kapelle**. Von **unter dem Holzboden** hören wir einen Schrei.
 
 Vor dem Altar kauert Priester **[[Donawitsch]]**. Die Kirche ist dem **[[Morgenfürst und Mutter Nacht|Morgenfürsten und Mutter Nacht]]** geweiht. Er erzählt:
 - Er hat seinen **[[Sohn von Donawitsch|Sohn]] im Keller eingesperrt**. Seit der Sohn von *irgendeiner Burg* zurückkam, ist er „komisch“.
@@ -100,6 +100,7 @@ In einem modrigen Zimmer finden wir die Falltür, und [[Aethren - René|Aethren]
 ## Neu kennengelernt
 - **Personen:** [[Ismark]], [[Irena]], [[Ismarks Vater]] (tot), [[Irre Marie]], [[Gertruda]] (nur erwähnt), [[Donawitsch]], [[Sohn von Donawitsch]] (nur gehört)
 - **Orte:** [[Taverne in Barovia]], [[Bildraths Laden]], [[Herrenhaus des Bürgermeisters]], [[Kirche von Barovia]], [[Vallaki]] (nur als Ziel)
+- **Gegenstände:** [[Magischer Mantel]] (bei Helena)
 - **Lore:** [[Morgenfürst und Mutter Nacht]]
 
 ## Quests
@@ -112,10 +113,8 @@ In einem modrigen Zimmer finden wir die Falltür, und [[Aethren - René|Aethren]
 - Welchen Trick hat Strahd benutzt, um ins Herrenhaus zu kommen?
 - Was sind die Wesen, die nachts um das Haus schwirren?
 - Von welcher Burg kam Donawitschs Sohn zurück, und was ist dort passiert?
-- Ist Irena mit den anderen zur Kirche gekommen, oder ist sie allein im Herrenhaus geblieben?
 - Was hat es mit Helenas Dark Gift auf sich? Können wir ihr trauen?
-- Wem gehörte der Mantel, den Helena gestohlen hat?
-- Was bedeutet „6 mal 4 Kammern“ in der Kirche?
+- Wer war die tote Person mit dem magischen Mantel?
 
 > [!question] Vermutung (nicht bestätigt)
 > Der Schrei unter dem Holzboden und die Gestalt in der Krypta könnten [[Sohn von Donawitsch|Donawitschs Sohn]] sein.
@@ -130,7 +129,7 @@ In einem modrigen Zimmer finden wir die Falltür, und [[Aethren - René|Aethren]
 >
 > Das Herrenhaus: Krallenspuren, zugenagelte Fenster, heilige Symbole an jeder Wand. Irena öffnete uns, ein junges Ding mit kastanienbraunem Haar. Zweimal war Strahd schon bei ihr. Beim zweiten Mal hörte das Herz ihres Vaters auf zu schlagen. Jetzt liegt er in einem Sarg in der Küche, und sie will ihn begraben wissen, bevor sie geht. Das verstehe ich.
 >
-> Also trugen wir den Sarg zur Kirche: Aethren, der Namenlose, Ismark und ich. Die anderen blieben zurück und kamen dann doch nach. Die Kirche ist verkohlt und zerkratzt. Der Priester Donawitsch kauert vor seinem Altar, und unter den Dielen schreit sein eigener Sohn, den er eingesperrt hat.
+> Also trugen wir den Sarg zur Kirche: Aethren, der Namenlose, Ismark und ich. Die anderen blieben mit Irena zurück und kamen dann doch nach. Die Kirche ist verkohlt und zerkratzt. Der Priester Donawitsch kauert vor seinem Altar, und unter den Dielen schreit sein eigener Sohn, den er eingesperrt hat.
 >
 > Aethren hat die Falltür aufgebrochen. Unten in der Krypta, in der Ecke, sitzt jemand. Ausgemergelt. Dort stehen wir jetzt.
 >
@@ -186,3 +185,6 @@ In einem modrigen Zimmer finden wir die Falltür, und [[Aethren - René|Aethren]
 > währenddessen entscheiden die anderen sich doch von dem herrenhaus in richtung kirche zu wandern. sie machen sich auf den weg.
 >
 > Wir gehen in ein modriges Zimmer, dort gibt es die falltür, die aethren aufbricht. wir kommen in die krypta. morsche holzpfeiler, modriger boden. eine ausgemärgelte gestalt befindet sich in der Ecke des raumes. cliffhänger...
+>
+> *Nachtrag 3 (Chat, 19.10.):*
+> Irena ist mit in die Kirche gekommen. hab irgendwie mich vertippt. es gibt 4 kammern am eingang im ersten flur und der flur ist 6 mal 4 meter fläche. der mantel, den helena gestohlen hat gehörte der person, die in dem haus geschrien hat und dann tot auf dem boden lag weil wir zu spät kamen. der mantel ist ausserdem magisch und gibt ihr +1 auf alle saving throws, attacks und ac

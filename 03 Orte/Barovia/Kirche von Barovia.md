@@ -18,7 +18,7 @@ tags:
 | Bereich | Was wir dort fanden |
 |---|---|
 | Haupteingang | Schwere Holztüren mit Krallenspuren, vom Feuer verkohlt |
-| Korridor | Dunkel, 4 Türen zu angrenzenden Kammern („6 mal 4 Kammern“?) |
+| Eingangsflur | Dunkel, ca. 6 × 4 m, 4 Türen zu angrenzenden Kammern |
 | Kapelle | [[Donawitsch]] kauert vor dem Altar. Unter dem Holzboden ist ein Schrei zu hören. |
 | Modriges Zimmer (rechts vom Eingang) | Falltür zur Krypta, von [[Aethren - René\|Aethren]] aufgebrochen |
 | Krypta | Morsche Holzpfeiler, modriger Boden, eine ausgemergelte Gestalt in der Ecke |

@@ -28,4 +28,4 @@ tags:
 - [[Strahd]] ist schon **zweimal** eingedrungen, obwohl er eigentlich keine Häuser betreten kann.
 
 ## Ereignisse
-- [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: Wir treffen Irena. Die Gruppe teilt sich, ein Teil bleibt hier und folgt später zur Kirche.
+- [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: Wir treffen Irena. Die Gruppe teilt sich, ein Teil bleibt hier und folgt später zusammen mit Irena zur Kirche.

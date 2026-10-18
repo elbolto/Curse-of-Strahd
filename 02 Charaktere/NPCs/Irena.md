@@ -26,7 +26,7 @@ tags:
 - Danach sollen wir sie nach [[Vallaki]] eskortieren. → [[Irena nach Vallaki bringen]]
 
 ## Auftritte
-- [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: von Ismark erwähnt, dann im Herrenhaus getroffen
+- [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: von Ismark erwähnt, dann im Herrenhaus getroffen. Geht mit einem Teil der Gruppe zur [[Kirche von Barovia|Kirche]].
 
 > [!abstract]- Originalnotiz
 > Irena wurde von [[Strahd]] gebissen, jetzt ist es alles unsicher was passieren wird. Wir sollen sie eskortieren nach [[Vallaki]]

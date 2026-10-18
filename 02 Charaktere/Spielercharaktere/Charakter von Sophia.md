@@ -15,7 +15,7 @@ tags:
 > **Aussehen:** sehr große Gestalt, große Rüstung, eine Hellebarde in der Hand
 
 ## In der Kampagne
-- [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: bleibt mit Irena im Herrenhaus und folgt später zur Kirche
+- [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: bleibt mit Irena im Herrenhaus und geht später mit ihr zur Kirche
 
 > [!abstract]- Originalnotiz
 > Sehr große Gestalt, große Rüstung mit Hellebarde in der Hand
