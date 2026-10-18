@@ -1,13 +1,17 @@
 ---
 typ: spielercharakter
-spieler: "?"
+aliases:
+  - Sophia
+spieler: Sophia
+charaktername: noch offen
 tags:
   - spielercharakter
 ---
-# Sophia
+# Charakter von Sophia
 
 > [!info] Steckbrief
-> **Spieler:** ? *(Ist „Sophia“ der Charakter oder die Spielerin?)*
+> **Spielerin:** Sophia
+> **Charaktername:** noch offen, kommt bald
 > **Aussehen:** sehr große Gestalt, große Rüstung, eine Hellebarde in der Hand
 
 ## In der Kampagne

@@ -2,7 +2,7 @@
 typ: session
 nummer: 4
 datum: 2026-10-18
-tldr: "Ismark bittet uns, seine von Strahd gebissene Schwester Irena nach Vallaki zu bringen. Wir kaufen bei Bildrath ein, versprechen der Irren Marie, ihre Tochter Gertruda zu suchen, und geraten in einen Zombieangriff."
+tldr: "Ismark bittet uns, seine von Strahd gebissene Schwester Irena nach Vallaki zu bringen. Wir kaufen bei Bildrath ein, versprechen der Irren Marie, ihre Tochter Gertruda zu suchen, und kämpfen in einem Haus gegen Zombies und Schwärme von Körperteilen."
 orte:
   - "[[Taverne in Barovia]]"
   - "[[Bildraths Laden]]"
@@ -22,7 +22,7 @@ tags:
 # Session 4 – Ein Auftrag von Ismark
 
 > [!summary] TL;DR
-> [[Ismark]] bittet uns, seine von [[Strahd]] gebissene Schwester [[Irena]] nach [[Vallaki]] zu bringen. Wir kaufen bei [[Bildraths Laden|Bildrath]] ein, versprechen der [[Irre Marie|Irren Marie]], ihre Tochter [[Gertruda]] zu suchen, und geraten in einen **Zombieangriff**. *(Cliffhanger)*
+> [[Ismark]] bittet uns, seine von [[Strahd]] gebissene Schwester [[Irena]] nach [[Vallaki]] zu bringen. Wir kaufen bei [[Bildraths Laden|Bildrath]] ein, versprechen der [[Irre Marie|Irren Marie]], ihre Tochter [[Gertruda]] zu suchen, und kämpfen in einem Haus gegen **Zombies und Schwärme von Körperteilen**. *(Der Kampf läuft noch.)*
 
 ## Ablauf
 
@@ -43,6 +43,8 @@ Auf der Straße hören wir ein Heulen und sehen nach. Es ist die [[Irre Marie]].
 ### Zombieangriff
 Als wir weitergehen, hören wir einen Schrei aus einem Haus in der Nähe. Wir gehen hinein und werden von **Zombies** überrascht.
 
+Es sind **mehrere Zombies**, dazu greifen uns auch **Schwärme von Körperteilen** an. Wir würfeln mehrere W8. Danach **hört der Schrei auf**. Der Kampf ist noch nicht vorbei.
+
 ## Neu kennengelernt
 - **Personen:** [[Ismark]], [[Irena]] (bisher nur erwähnt), [[Irre Marie]], [[Gertruda]] (bisher nur erwähnt)
 - **Orte:** [[Taverne in Barovia]], [[Bildraths Laden]], [[Vallaki]] (nur als Ziel)
@@ -53,7 +55,7 @@ Als wir weitergehen, hören wir einen Schrei aus einem Haus in der Nähe. Wir ge
 
 ## Offene Fragen
 - Was passiert mit Irena nach Strahds Biss?
-- Wer hat im Haus geschrien?
+- Wer hat im Haus geschrien, und warum hört der Schrei auf?
 - Woran ist der Bürgermeister gestorben?
 
 > [!abstract]- Originalnotizen
@@ -70,3 +72,11 @@ Als wir weitergehen, hören wir einen Schrei aus einem Haus in der Nähe. Wir ge
 > Auf der Straße hören wir ein Geheule und wir checken es aus, es ist die [[Irre Marie]]. Wir unterhalten uns mit ihr, ihre Tochter ist weg, etc.
 >
 > Wir laufen weiter nachdem wir ihr gesagt haben, dass wir die Quest annehmen und hören einen Schrei aus einem Haus in der Nähe. Wir gehen hinein und werden überrascht von einem Zombieangriff.
+>
+> *Nachtrag (Inbox, 18.10.):*
+> Sind immer noch in Session Nummer 4, bitte updaten das ganze Zeug.
+>
+> Wir befinden uns im Zombiekampf.
+> Wir würfeln mehrere D8, der Schrei hört danach auf.
+>
+> es sind mehrere Zombies und dazu schwärme von körperteilen, die auch angreifen.

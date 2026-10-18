@@ -16,7 +16,7 @@ tags:
 [[Ismark]] bittet uns, seine Schwester [[Irena]] nach [[Vallaki]] zu eskortieren. Sie wurde von [[Strahd]] gebissen.
 
 ## Verlauf
-- [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: Auftrag angenommen, Einkauf bei [[Bildraths Laden|Bildrath]]. Auf dem Weg geraten wir in einen Zombieangriff.
+- [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: Auftrag angenommen, Einkauf bei [[Bildraths Laden|Bildrath]]. Auf dem Weg kämpfen wir in einem Haus gegen Zombies und Schwärme von Körperteilen (läuft noch).
 
 ## Nächste Schritte
 - [ ] Zombieangriff überstehen

@@ -20,9 +20,6 @@ tags:
 - Sie trägt ihr schönstes Kleid und hat ihre Puppe zurückgelassen.
 - Ihre Mutter fürchtet, dass sie bei [[Strahd]] ist.
 
-> [!warning] Widerspruch in den Notizen
-> Hier steht „14 Jahre alt“, bei der [[Irre Marie|Irren Marie]] dagegen „seit sie volljährig ist“. Vielleicht gilt man in Barovia mit 14 als volljährig, oder eine der beiden Angaben stimmt nicht.
-
 ## Auftritte
 - [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: von ihrer Mutter erwähnt
 

@@ -29,9 +29,9 @@ tags:
 | Cembalo-Zimmer | Der Walzer: Geister aller Bewohner tanzen, zwei Figuren fallen aus dem Regal |
 | Keller | 4 Grabkammern (eine fehlt), Raum mit Knochenhaufen |
 | Unterer Keller | Säulensaal, 5 Schlafräume mit Feldbetten |
-| Ganz hinten | Altar in 60 cm tiefem Wasser mit Tentakeln und einem Bündel auf dem Altar |
+| Ganz hinten | Altar in 60 cm tiefem Wasser mit Tentakeln und einem Bündel auf dem Altar. Hier kämpften wir gegen **Walter**, der zum Fleischmonster geworden war. |
 
 ## Ereignisse
 - [[S01 – 2026-08-31 – Das Durst-Haus|S01]]: Betreten und Obergeschoss
 - [[S02 – 2026-09-20 – Die Geister der Durst-Kinder|S02]]: Dachboden, Mutterzimmer und Keller
-- [[S03 – 2026-10-04 – Abschluss im Durst-Haus|S03]]: Kampf, das Tutorial ist abgeschlossen
+- [[S03 – 2026-10-04 – Abschluss im Durst-Haus|S03]]: Kampf gegen Walter, das Tutorial ist abgeschlossen

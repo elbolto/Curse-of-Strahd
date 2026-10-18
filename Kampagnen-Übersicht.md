@@ -6,7 +6,7 @@ tags:
 # 🦇 Curse of Strahd
 
 > [!danger] Wo wir gerade stehen (nach S04, 18.10.2026)
-> Wir sind in [[Barovia]] und haben gerade zwei Aufträge angenommen: [[Irena]] nach [[Vallaki]] bringen und [[Gertruda]] suchen. Auf dem Weg hörten wir einen Schrei aus einem Haus. Drinnen wurden wir **von Zombies überrascht**. *Die nächste Session beginnt mitten im Kampf.*
+> Wir sind in [[Barovia]] und haben gerade zwei Aufträge angenommen: [[Irena]] nach [[Vallaki]] bringen und [[Gertruda]] suchen. Auf dem Weg hörten wir einen Schrei aus einem Haus. Drinnen kämpfen wir gegen **mehrere Zombies und Schwärme von Körperteilen**. Nach ein paar W8-Würfen ist der Schrei verstummt. *Wir stecken noch mitten im Kampf.*
 
 ## 🎯 Aktive Quests
 - [[Irena nach Vallaki bringen]]: für [[Ismark]]. Irena wurde von Strahd gebissen.
@@ -29,8 +29,8 @@ views:
 ## 📜 Sessions
 | # | Datum | Session | Kurz |
 |---|---|---|---|
-| 4 | 18.10.2026 | [[S04 – 2026-10-18 – Ein Auftrag von Ismark\|Ein Auftrag von Ismark]] | Ismarks Auftrag, Irre Marie, Zombieangriff |
-| 3 | 04.10.2026 | [[S03 – 2026-10-04 – Abschluss im Durst-Haus\|Abschluss im Durst-Haus]] | Tutorial beendet, Aethren sieht Strahd |
+| 4 | 18.10.2026 | [[S04 – 2026-10-18 – Ein Auftrag von Ismark\|Ein Auftrag von Ismark]] | Ismarks Auftrag, Irre Marie, Zombiekampf (läuft noch) |
+| 3 | 04.10.2026 | [[S03 – 2026-10-04 – Abschluss im Durst-Haus\|Abschluss im Durst-Haus]] | Kampf gegen Walter (Fleischmonster), Aethren sieht Strahd |
 | 2 | 20.09.2026 | [[S02 – 2026-09-20 – Die Geister der Durst-Kinder\|Die Geister der Durst-Kinder]] | Geister-Companions, Altar im Keller |
 | 1 | 31.08.2026 | [[S01 – 2026-08-31 – Das Durst-Haus\|Das Durst-Haus]] | Ankunft in Barovia, Strahds Brief |
 
@@ -41,8 +41,8 @@ views:
 | [[Aethren - René\|Aethren]] | René | Hochelf mit goldener Maske, Pakt mit einer Göttin |
 | [[Herr Guphry - Castor\|Herr Guphry]] | Castor | Viktorianischer Schnösel, geldgeil |
 | [[Helena Aldric - Anna\|Helena Aldric]] | Anna | Junge Dame, groß und mager |
-| [[Sophia]] | ? | Riesige Gestalt mit Hellebarde |
-| [[Özgür]] | ? | Wild, weiß-grünes Haar, „scheint anders“ |
+| [[Charakter von Sophia\|*noch ohne Namen*]] | Sophia | Riesige Gestalt mit Hellebarde |
+| [[Charakter von Özgür\|*noch ohne Namen*]] | Özgür | Wild, weiß-grünes Haar, „scheint anders“ |
 
 Dazu kommen **die Geister der beiden Durst-Kinder** als Companions (seit S02).
 

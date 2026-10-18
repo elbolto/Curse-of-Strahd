@@ -1,13 +1,17 @@
 ---
 typ: spielercharakter
-spieler: "?"
+aliases:
+  - Özgür
+spieler: Özgür
+charaktername: noch offen
 tags:
   - spielercharakter
 ---
-# Özgür
+# Charakter von Özgür
 
 > [!info] Steckbrief
-> **Spieler:** ? *(Ist „Özgür“ der Charakter oder der Spieler?)*
+> **Spieler:** Özgür
+> **Charaktername:** noch offen, kommt bald
 > **Volk:** scheinbar Mensch, aber irgendwie anders
 > **Aussehen:** lange, zerzauste weiß-grüne Haare und Bart, zerrissene Kleidung, sieht plebejisch aus
 

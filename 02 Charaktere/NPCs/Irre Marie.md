@@ -17,7 +17,7 @@ tags:
 
 ## Was wir wissen
 - Ihr Heulen hört man in den Straßen von Barovia.
-- Ihre Tochter [[Gertruda]] ist verschwunden. Seit sie volljährig ist, ist sie einfach „weg“.
+- Ihre 14-jährige Tochter [[Gertruda]] ist verschwunden, einfach „weg“.
 - Sie hat Angst, dass Gertruda bei [[Strahd]] ist.
 
 ## Auftritte

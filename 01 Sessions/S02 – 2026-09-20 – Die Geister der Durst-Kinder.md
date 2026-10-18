@@ -52,7 +52,7 @@ Narri findet den Walzer am Cembalo. Die **Geister aller Bewohner** erscheinen un
 ## Offene Fragen
 - Wer liegt nicht in der fehlenden Grabkammer?
 - Wofür sind die 5 Schlafräume im Keller?
-- Was ist das Bündel auf dem Altar? Ist es der kleine Bruder?
+- Was ist das Bündel auf dem Altar? Ist es der kleine Bruder? *(→ In [[S03 – 2026-10-04 – Abschluss im Durst-Haus|S03]] kämpfen wir hier gegen Walter, den Sohn.)*
 - Was bedeuten die zwei Figuren, die aus dem Regal gefallen sind?
 - Was ist der Name des Biests? Der [[Bernsteinsplitter]] wirkt nur, wenn man ihn ausspricht.
 

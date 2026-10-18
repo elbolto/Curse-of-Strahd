@@ -11,7 +11,7 @@ Wenn der Nutzer das (oder Ähnliches) schreibt:
    - Rohtext **unverändert** in `> [!abstract]- Originalnotizen` am Ende
 3. Für jede neue Person, jeden Ort, jede Quest und jeden wichtigen Gegenstand oder Hinweis eine Notiz nach Vorlage anlegen. Bestehende Notizen ergänzen („Was wir wissen“, „Auftritte“, Status in den Properties).
 4. Alle Erwähnungen verlinken. Session-Links mit Alias: `[[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]`.
-5. `🏠 Kampagnen-Übersicht.md` aktualisieren: „Wo wir gerade stehen“, aktive Quests, Session-Tabelle, große offene Fragen.
+5. `Kampagnen-Übersicht.md` aktualisieren: „Wo wir gerade stehen“, aktive Quests, Session-Tabelle, große offene Fragen.
 6. Verarbeitete Inbox-Notizen löschen. Der Rohtext steckt in der Session-Notiz, und git hat die Historie.
 7. Prüfen, dass keine Links ins Leere zeigen. Dann committen (nicht pushen, außer der Nutzer bittet darum).
 8. Dem Nutzer kurz berichten: was neu ist, welche Rückfragen offen sind (Widersprüche, unklare Namen).
@@ -19,9 +19,13 @@ Wenn der Nutzer das (oder Ähnliches) schreibt:
 ## Inhaltliche Regeln
 - **Keine Spoiler aus dem offiziellen Abenteuer.** Nur verwenden, was die Gruppe selbst erlebt hat. Kein Modulwissen ergänzen, auch nicht als Vermutung.
 - **Nichts erfinden.** Ausformulieren ja, neue Fakten nein. Eigene Schlussfolgerungen nur aus Spielerwissen und immer als `> [!question] Vermutung (nicht bestätigt)` markieren.
-- Unklare Stellen im Rohtext (z. B. „den mans“) wörtlich nennen und als offene Frage aufnehmen, statt sie zu raten.
+- Unklare Stellen im Rohtext (z. B. ein unverständliches Wort) wörtlich nennen und als offene Frage aufnehmen, statt sie zu raten.
 - **Charakter-Backstorys** (v. a. Narri) nicht umschreiben, nur gliedern. Der Originaltext bleibt erhalten.
 - Schreibweisen vereinheitlichen und die abweichende Variante als `aliases` eintragen (z. B. Barovia/Borovia, Ismark/Issmark).
+- Feste Schreibweisen: **Strahd von Zarovich** (nie „Zarowitsch“), **Barovia**, **Ismark**.
+- Gertruda ist **14** (vom Nutzer bestätigt).
+- Spielercharaktere heißen `Charaktername - Spieler.md`. Solange ein Charakter keinen Namen hat: `Charakter von <Spieler>.md` (derzeit Sophia und Özgür). Sobald der Name bekannt ist, umbenennen, Property `charaktername` setzen und die Übersicht anpassen.
+- Eine Inbox-Notiz kann eine laufende Session fortsetzen (z. B. „sind immer noch in Session 4“). Dann die bestehende Session-Notiz ergänzen und den Rohtext an ihre Originalnotizen anhängen.
 - Briefe und Dokumente bekommen eine eigene Notiz in `05 Gegenstände & Hinweise/` mit dem Text in einem `> [!quote]`-Callout.
 - Perspektive: „wir“ = die Gruppe. „Ich“ im Rohtext = Narri.
 

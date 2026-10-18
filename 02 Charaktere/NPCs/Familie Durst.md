@@ -7,6 +7,8 @@ aliases:
   - Elizabeth Durst
   - Klara
   - Drasha
+  - Walter
+  - Walter Durst
 status: tot
 beziehung: unbekannt
 ort: "[[Durst-Haus]]"
@@ -26,7 +28,7 @@ Die frühere Familie im [[Durst-Haus]] in [[Barovia]]. Wir kennen sie bisher nur
 | **Gustaf Durst** | Vater | Im [[Testament der Familie Durst\|Testament]] genannt |
 | **Elisabeth Durst** | Mutter | Im Testament genannt (dort „Elizabeth“). Schrieb die [[Notiz von Elisabeth an Drasha]]. Laut den Kindern „im Keller“. |
 | **Die zwei Kinder** | Tochter/Sohn? | Baten uns auf der Straße um Hilfe. Wurden eingesperrt und starben auf dem Dachboden. Ihre Geister sind jetzt unsere **Companions**. |
-| **Der kleine Bruder** | Baby? | Die Kinder baten uns, ihn zu retten. Was mit ihm ist, ist noch offen. |
+| **Walter** | Sohn | Zu einem **Fleischmonster** geworden. Wir haben im Keller gegen ihn gekämpft ([[S03 – 2026-10-04 – Abschluss im Durst-Haus\|S03]]). Vermutlich der kleine Bruder, den wir retten sollten. |
 | **Klara** | Kindermädchen | Schrieb den [[Brief von Klara]]. Bat um Urlaub und deutet eine Schwangerschaft an. |
 | **Drasha** | ? | Empfängerin der Notiz und „Hüter des Biests“ |
 
@@ -36,6 +38,9 @@ Die frühere Familie im [[Durst-Haus]] in [[Barovia]]. Wir kennen sie bisher nur
 
 > [!question] Vermutung (nicht bestätigt)
 > Strahds Brief spricht von einem Ehemann, der „Trost am Busen einer anderen Frau“ fand und „einen Bastard zeugte“. Klaras Brief deutet eine Schwangerschaft an. Möglicherweise ist Klara diese Frau.
+
+> [!question] Vermutung (nicht bestätigt)
+> Walter könnte das **Biest** aus der [[Notiz von Elisabeth an Drasha]] sein, „das Herz dieses Hauses“.
 
 ## Auftritte
 - [[S01 – 2026-08-31 – Das Durst-Haus|S01]] · [[S02 – 2026-09-20 – Die Geister der Durst-Kinder|S02]] · [[S03 – 2026-10-04 – Abschluss im Durst-Haus|S03]]

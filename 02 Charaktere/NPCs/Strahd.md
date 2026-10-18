@@ -2,7 +2,6 @@
 typ: npc
 aliases:
   - Strahd von Zarovich
-  - Strahd von Zarowitsch
 status: unbekannt
 beziehung: feindlich
 ort: "[[Barovia]]"

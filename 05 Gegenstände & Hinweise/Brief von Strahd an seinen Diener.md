@@ -16,7 +16,7 @@ tags:
 > Ihr sagst, Ihr wärt verflucht, Euer Vermögen ausgegeben. Euer Mann fand Trost am Busen einer anderen Frau, zeugte einen Bastard und trieb Euch dazu, die Liebe für den Wahnsinn aufzugeben. Von Dunkelheit verflucht? Daran habe ich keinen Zweifel. Euch von Eurem Elend befreien? Ich glaube nicht. Ich bevorzuge Euch sehr, wie Ihr seid.
 >
 > Euer Schreckenslord und Meister,
-> *Strahd von Zarowitsch*
+> *Strahd von Zarovich*
 
 ## Was daraus folgt
 - Die Empfänger hatten einen **verborgenen Altar** und folterten Besucher in einem **Gewölbe**. Das passt zum Altar im Keller des [[Durst-Haus]].

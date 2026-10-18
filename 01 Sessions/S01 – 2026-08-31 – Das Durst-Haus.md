@@ -31,7 +31,7 @@ Auf der Straße sprechen uns zwei Kinder an. In ihrem Haus gebe es ein Monster, 
 
 ### Im Durst-Haus
 - Überall im Haus finden wir Gegenstände, in die eine **[[Windmühlen-Symbol|Windmühle]]** eingraviert ist.
-- Im Obergeschoss entdecken wir einen **Geheimraum**. Darin liegt ein Skelett mit einem [[Brief von Strahd an seinen Diener|Brief]], unterschrieben von [[Strahd|Strahd von Zarowitsch]].
+- Im Obergeschoss entdecken wir einen **Geheimraum**. Darin liegt ein Skelett mit einem [[Brief von Strahd an seinen Diener|Brief]], unterschrieben von [[Strahd|Strahd von Zarovich]].
 - In einer Truhe liegen:
   - eine **Eigentumsbescheinigung** für das Haus und für eine Windmühle
   - das [[Testament der Familie Durst]]: Gustaf und Elizabeth Durst vermachen alles ihren beiden Kindern.
