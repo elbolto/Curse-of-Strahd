@@ -30,22 +30,22 @@ views:
 ```
 
 ## Sessions
-| # | Datum | Session | Kurz |
-|---|---|---|---|
-| 4 | 18.10.2026 | [[S04 – 2026-10-18 – Ein Auftrag von Ismark\|Ein Auftrag von Ismark]] | Ismarks Auftrag, Zombiekampf, Helenas Dark Gift, Herrenhaus, Kirche und Krypta |
-| 3 | 04.10.2026 | [[S03 – 2026-10-04 – Abschluss im Durst-Haus\|Abschluss im Durst-Haus]] | Kampf gegen Walter (Fleischmonster), Aethren sieht Strahd |
-| 2 | 20.09.2026 | [[S02 – 2026-09-20 – Die Geister der Durst-Kinder\|Die Geister der Durst-Kinder]] | Geister-Companions, Altar im Keller |
-| 1 | 31.08.2026 | [[S01 – 2026-08-31 – Das Durst-Haus\|Das Durst-Haus]] | Ankunft in Barovia, Strahds Brief |
+| #   | Datum      | Session                                                                           | Kurz                                                                           |
+| --- | ---------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 4   | 18.10.2026 | [[S04 – 2026-10-18 – Ein Auftrag von Ismark\|Ein Auftrag von Ismark]]             | Ismarks Auftrag, Zombiekampf, Helenas Dark Gift, Herrenhaus, Kirche und Krypta |
+| 3   | 04.10.2026 | [[S03 – 2026-10-04 – Abschluss im Durst-Haus\|Abschluss im Durst-Haus]]           | Kampf gegen Walter (Fleischmonster), Aethren sieht Strahd                      |
+| 2   | 20.09.2026 | [[S02 – 2026-09-20 – Die Geister der Durst-Kinder\|Die Geister der Durst-Kinder]] | Geister-Companions, Altar im Keller                                            |
+| 1   | 31.08.2026 | [[S01 – 2026-08-31 – Das Durst-Haus\|Das Durst-Haus]]                             | Ankunft in Barovia, Strahds Brief                                              |
 
 ## Die Gruppe
-| Charakter                                   | Spieler | Kurz                                              |
-| ------------------------------------------- | ------- | ------------------------------------------------- |
-| [[Narri - Elbolto\|Narri]]                  | Elbolto | Aasimar-Grabkleriker, sucht seinen Glauben        |
-| [[Aethren - René\|Aethren]]                 | René    | Hochelf mit goldener Maske, Pakt mit einer Göttin |
-| [[Herr Guphry - Castor\|Herr Guphry]]       | Castor  | Viktorianischer Schnösel, geldgeil                |
-| [[Helena Aldric - Anna\|Helena Aldric]]     | Anna    | Junge Dame, groß und mager, Dark Gift, [[Magischer Mantel\|mag. Mantel]] |
-| [[Charakter von Sophia\|*noch ohne Namen*]] | Sophia  | Riesige Gestalt mit Hellebarde                    |
-| [[Charakter von Özgür\|*noch ohne Namen*]]  | Özgür   | Wild, weiß-grünes Haar, „scheint anders“          |
+| Charakter                                   | Spieler | Kurz                                                                     |
+| ------------------------------------------- | ------- | ------------------------------------------------------------------------ |
+| [[Narri - Elbolto\|Narri]]                  | Elbolto | Aasimar-Grabkleriker, sucht seinen Glauben                               |
+| [[Aethren - René\|Aethren]]                 | René    | Hochelf mit goldener Maske, Pakt mit einer Göttin                        |
+| [[Herr Guphry - Castor\|Herr Guphry]]       | Castor  | Viktorianischer Schnösel, geldgeil                                       |
+| [[Helena Aldric - Anna\|Helena Aldric]]     | Anna    | Fey, junge Dame, groß und mager, Dark Gift, [[Magischer Mantel\|mag. Mantel]] |
+| [[Charakter von Sophia\|*noch ohne Namen*]] | Sophia  | Riesige Gestalt mit Hellebarde                                           |
+| [[Charakter von Özgür\|*noch ohne Namen*]]  | Özgür   | Druide, wild, weiß-grünes Haar, „scheint anders“                                 |
 
 Dazu kommen **die Geister der beiden Durst-Kinder** als Companions (seit S02).
 
@@ -63,6 +63,10 @@ views:
       - beziehung
       - ort
       - erstes_auftreten
+    sort:
+      - property: ort
+        direction: DESC
+
 ```
 
 ## Große offene Fragen

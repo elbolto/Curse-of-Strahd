@@ -17,6 +17,7 @@ tags:
 
 ## Was wir wissen
 - Ihr Heulen hört man in den Straßen von Barovia.
+- „Irre Marie“ ist der Name, den [[Ismark]] ihr gibt.
 - Ihre 14-jährige Tochter [[Gertruda]] ist verschwunden, einfach „weg“.
 - Sie hat Angst, dass Gertruda bei [[Strahd]] ist.
 

@@ -3,6 +3,7 @@ typ: spielercharakter
 aliases:
   - Özgür
 spieler: Özgür
+klasse: Druide
 charaktername: noch offen
 tags:
   - spielercharakter
@@ -12,6 +13,7 @@ tags:
 > [!info] Steckbrief
 > **Spieler:** Özgür
 > **Charaktername:** noch offen, kommt bald
+> **Klasse:** Druide
 > **Volk:** scheinbar Mensch, aber irgendwie anders
 > **Aussehen:** lange, zerzauste weiß-grüne Haare und Bart, zerrissene Kleidung, sieht plebejisch aus
 

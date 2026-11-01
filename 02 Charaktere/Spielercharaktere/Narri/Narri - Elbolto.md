@@ -76,17 +76,7 @@ Je mehr Narri zu seinem Glauben zurückfindet, desto öfter **scheint bei heilen
 
 ## Rollenspiel-Ideen & Ticks
 
-### Redet mit seiner Göttin
-Da die Göttin vielleicht buchstäblich durch ihn hindurchkommt, hat er eine sehr seltsame Beziehung zu ihr. Er spricht ständig mit ihr, aber andere hören natürlich keine Antwort.
-
-> *Beim Laufen:* „Ja, ja. Ich sehe es.“
-> – „Mit wem redest du?“
-> „Mit niemandem.“ *Pause.* „Das war gelogen.“
-
-> *Im Kampf:* „Du hättest das verhindern können.“
-> *Heilt jemanden.* „Ah. Jetzt bist du plötzlich da.“
-
-### Er zählt Menschen (Favorit)
+### Er zählt Menschen
 Er zählt ständig die Gruppe, anfangs ganz unauffällig.
 
 > *Beim Loslaufen:* „Eins, zwei, drei, vier, fünf.“

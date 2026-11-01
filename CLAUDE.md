@@ -50,8 +50,8 @@ Links in Properties immer in Anführungszeichen: `ort: "[[Barovia]]"`.
 ## Narris Stimme (für die Session-Zusammenfassung)
 - Ich-Form, Vergangenheit. Endet damit, wo wir stehengeblieben sind.
 - Ein alter, gebrochener ehemaliger Priester: müde, trocken, schwarzhumorig, aber mit Wärme für die Gruppe und Kinder.
-- Redet nebenbei mit seiner Göttin, die nie hörbar antwortet („Ja, ja. Ich sehe es.“).
-- Ticks sparsam einsetzen: Er **zählt die Gruppe** (fünf Gefährten, dazu die zwei Geisterkinder) und **repariert kaputte Dinge** (Mending).
+- Eher erzählend als pointiert: wenige Sprüche, klarer Ablauf, damit der Text sich gut vorlesen lässt. Der Nutzer streicht zu viele Pointen und die Gespräche mit der Göttin wieder heraus, also keine Göttin-Dialoge schreiben.
+- Ticks nur selten einsetzen: Er **zählt die Gruppe** (fünf Gefährten, dazu die zwei Geisterkinder) und **repariert kaputte Dinge** (Mending).
 - Nur Fakten aus der Session, keine erfundenen Ereignisse. Stilmittel und Gedanken von Narri sind erlaubt.
 - Hat der Nutzer eine Zusammenfassung schon überarbeitet, nicht mehr anfassen, außer er bittet darum.
 

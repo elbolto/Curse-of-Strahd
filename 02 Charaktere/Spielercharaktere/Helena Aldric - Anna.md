@@ -4,6 +4,7 @@ aliases:
   - Helena Aldric
   - Helena
 spieler: Anna
+volk: Fey
 tags:
   - spielercharakter
 ---
@@ -11,6 +12,7 @@ tags:
 
 > [!info] Steckbrief
 > **Spieler:** Anna
+> **Volk:** Fey
 > **Aussehen:** junge Dame, groß, mager
 
 ## Dark Gift
@@ -22,7 +24,10 @@ tags:
 - [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: bleibt mit Irena im Herrenhaus und geht später mit ihr zur Kirche
 
 ## Besitz
+- [[Gertruda|Gertrudas]] Puppe: hat sie nach einer Frage an die [[Irre Marie]] eingesteckt
 - [[Magischer Mantel]]: +1 auf Rettungswürfe, Angriffe und RK
 
 > [!abstract]- Originalnotiz
 > Junge Dame, groß, mager
+>
+> ergänzung, anna ist fey von der charakter spezies her

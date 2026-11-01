@@ -36,7 +36,7 @@ tags:
 Wir wachen in der [[Taverne in Barovia|Taverne]] auf und treffen dort [[Ismark]]. Er erzählt uns:
 - Seine Schwester [[Irena]] wurde von [[Strahd]] **gebissen**.
 - Sein Vater, der **Bürgermeister** von [[Barovia]], ist gestorben.
-- Wir sollen Irena nach [[Vallaki]] bringen.
+- Wir sollen Irena nach [[Vallaki]] bringen. Dort sei sie sicher vor dem „Teufel“.
 
 Wir nehmen den Auftrag an. → Quest [[Irena nach Vallaki bringen]]
 
@@ -44,7 +44,7 @@ Wir nehmen den Auftrag an. → Quest [[Irena nach Vallaki bringen]]
 Bevor wir aufbrechen, gehen wir zu [[Bildraths Laden]] und kaufen ein. Bildrath verlangt etwa den zehnfachen Preis.
 
 ### Die Irre Marie
-Auf der Straße hören wir ein Heulen und sehen nach. Es ist die [[Irre Marie]]. Wir sprechen mit ihr: Ihre Tochter [[Gertruda]] ist verschwunden. Wir sagen ihr, dass wir sie suchen werden. → Quest [[Gertruda finden]]
+Auf der Straße hören wir ein Heulen und sehen nach. Es ist die [[Irre Marie]]. Wir sprechen mit ihr: Ihre Tochter [[Gertruda]] ist verschwunden. Wir sagen ihr, dass wir sie suchen werden. [[Helena Aldric - Anna|Helena]] fragt Marie und steckt sich **Gertrudas Puppe** ein. → Quest [[Gertruda finden]]
 
 ### Zombieangriff
 Als wir weitergehen, hören wir einen Schrei aus einem Haus in der Nähe. Wir gehen hinein und werden überrascht: Es sind **mehrere Zombies**, dazu greifen uns **Schwärme von Körperteilen** an. Wir würfeln mehrere W8, danach **hört der Schrei auf**.
@@ -121,19 +121,19 @@ In einem modrigen Zimmer finden wir die Falltür, und [[Aethren - René|Aethren]
 
 ## Zusammenfassung der Session (Narri)
 > [!quote] Zum Vorlesen beim nächsten Mal
-> Ein langer Tag. Er begann in der Taverne mit Ismark, dem Sohn des toten Bürgermeisters. Seine Schwester Irena wurde von Strahd gebissen, und wir sollen sie nach Vallaki bringen. Wir haben ja gesagt. Wir sagen immer ja. Bei Bildrath haben wir zum zehnfachen Preis eingekauft, und der Irren Marie haben wir versprochen, ihre Tochter Gertruda zu suchen. Vierzehn Jahre alt. Die Puppe hat sie zurückgelassen.
+> Ein langer Tag. Er begann in der Taverne mit Ismark, dem Sohn des toten Bürgermeisters. Seine Schwester Irena wurde von Strahd gebissen, und wir sollen sie nach Vallaki bringen. Dort sei sie sicher vor dem Teufel. Wir haben ja gesagt. Natürlich. Bevor wir zu Irena zogen, haben wir noch bei Bildrath wir zum zehnfachen Preis eingekauft. Auf der Straße hörten wir ein bitterliches Schluchzen. Als wir es untersuchten, trafen wir die (wie Ismark sie nannte): "Irre Marie". Wir versprachen Marie, ihre Tochter Gertruda zu suchen. Erst vierzehn Jahre alt und schon verschwunden. Die Puppe hat sie zurückgelassen. Helena fragte Marie und steckte sich die Puppe ein.
 >
-> Dann ein Schrei aus einem Haus. Zombies, und Schwärme von Körperteilen, die von selbst angriffen. Wir haben sie alle erledigt. Aber der Schrei hörte auf, bevor wir oben waren. Zu spät. Wieder einmal.
+> Wir zogen weiter. Dann: ein Schrei aus einem Haus. Wir gingen hinein, ohne mit der Wimper zu zucken. Zombies, und Schwärme von Körperteilen, die von selbst angriffen. Wir haben sie alle erledigt. Aber der Schrei hörte auf, bevor wir oben waren. Zu spät.
 >
-> Und Helena … etwas in ihr ist erwacht. Sie ging auf uns los, nahm der Leiche oben den Mantel und rannte davon, bis Ismark sie mit einem Bolzen niederstreckte. Danach haben wir gestritten. Wir haben uns nicht vertragen, nur vertagt. „Du hättest das verhindern können“, sagte ich zu meiner Göttin. Sie schwieg.
+> Und Helena … etwas in ihr ist erwacht. Wie von einer Hornisse gestochen, spurtete sie an uns vorbei, nahm der Leiche oben den Mantel ab und rannte aus dem Haus und immer weiter, bis Ismark sie mit einem Bolzen niederstreckte. Danach haben wir gestritten.
 >
-> Das Herrenhaus: Krallenspuren, zugenagelte Fenster, heilige Symbole an jeder Wand. Irena öffnete uns, ein junges Ding mit kastanienbraunem Haar. Zweimal war Strahd schon bei ihr. Beim zweiten Mal hörte das Herz ihres Vaters auf zu schlagen. Jetzt liegt er in einem Sarg in der Küche, und sie will ihn begraben wissen, bevor sie geht. Das verstehe ich.
+> Angekommen im Herrenhaus von Ismarks Vater: Krallenspuren, zugenagelte Fenster, heilige Symbole an jeder Wand. Irena öffnete uns, eine junge Frau mit kastanienbraunem Haar. Zweimal war Strahd schon bei ihr. Beim zweiten Mal hörte das Herz ihres Vaters auf zu schlagen. Jetzt liegt er in einem Sarg in der Küche, und sie will, dass er begraben ist, bevor wir sie nach Vallaki eskortieren. Das verstehe ich.
 >
-> Also trugen wir den Sarg zur Kirche: Aethren, der Namenlose, Ismark und ich. Die anderen blieben mit Irena zurück und kamen dann doch nach. Die Kirche ist verkohlt und zerkratzt. Der Priester Donawitsch kauert vor seinem Altar, und unter den Dielen schreit sein eigener Sohn, den er eingesperrt hat.
+> Also trugen wir den Sarg zur Kirche: Aethren, der Druide [[Charakter von Özgür|Özgür]] , Ismark und ich. Die anderen blieben mit Irena zurück. Die Kirche ist verkohlt und zerkratzt. Der Priester Donawitsch kauert vor seinem Altar, und unter den Dielen schreit sein eigener Sohn, den er eingesperrt hat.
 >
-> Aethren hat die Falltür aufgebrochen. Unten in der Krypta, in der Ecke, sitzt jemand. Ausgemergelt. Dort stehen wir jetzt.
+> Aethren hat die Falltür aufgebrochen. Unten in der dunklen und modrigen Krypta, steht jemand inmitten des Schimmels. Ausgemergelt. Dort stehen wir nun.
 >
-> Eins, zwei, drei. Und Ismark. Die anderen sind unterwegs. Ich zähle sie, wenn sie da sind.
+
 
 > [!abstract]- Originalnotizen
 > Wir wachen in der Taverne auf.

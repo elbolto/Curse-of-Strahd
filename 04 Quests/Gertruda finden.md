@@ -17,7 +17,7 @@ Die [[Irre Marie]] vermisst ihre Tochter [[Gertruda]] (14). Wir haben ihr verspr
 
 ## Hinweise
 - Gertruda trägt ihr schönstes Kleid.
-- Ihre Puppe hat sie zurückgelassen.
+- Ihre Puppe hat sie zurückgelassen. [[Helena Aldric - Anna|Helena]] hat sie eingesteckt.
 - Marie fürchtet, dass sie bei [[Strahd]] ist.
 
 ## Verlauf

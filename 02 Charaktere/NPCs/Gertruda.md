@@ -17,7 +17,7 @@ tags:
 
 ## Was wir wissen
 - Sie ist von zu Hause weggegangen.
-- Sie trägt ihr schönstes Kleid und hat ihre Puppe zurückgelassen.
+- Sie trägt ihr schönstes Kleid und hat ihre Puppe zurückgelassen. Die Puppe hat jetzt [[Helena Aldric - Anna|Helena]].
 - Ihre Mutter fürchtet, dass sie bei [[Strahd]] ist.
 
 ## Auftritte
