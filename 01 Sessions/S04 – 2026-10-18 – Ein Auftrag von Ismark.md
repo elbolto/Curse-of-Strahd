@@ -12,11 +12,11 @@ orte:
 npcs:
   - "[[Ismark]]"
   - "[[Irena]]"
-  - "[[Ismarks Vater]]"
+  - "[[Koljan Dirowitsch]]"
   - "[[Irre Marie]]"
   - "[[Gertruda]]"
   - "[[Donawitsch]]"
-  - "[[Sohn von Donawitsch]]"
+  - "[[Doru]]"
   - "[[Strahd]]"
 quests:
   - "[[Irena nach Vallaki bringen]]"
@@ -65,7 +65,7 @@ Am Ende der Straße steht das [[Herrenhaus des Bürgermeisters|Herrenhaus]] von 
 
 Ismark klopft mit einem **Code** an die Tür. Er erzählt: Nachts kommen **Wölfe**. Strahd war schon **zweimal** hier und hat Irena **beide Male gebissen**.
 
-[[Irena]] öffnet nach dem Code. Sie ist **18 oder 19 Jahre alt** und hat **langes, kastanienbraunes Haar**. Sie vertraut uns und lässt uns hinein. Drinnen liegt [[Ismarks Vater|ihr Vater]] in einem **Holzsarg in der Küche**. Alle Fenster sind zugenagelt, und überall hängen **heilige Symbole**.
+[[Irena]] öffnet nach dem Code. Sie ist **18 oder 19 Jahre alt** und hat **langes, kastanienbraunes Haar**. Sie vertraut uns und lässt uns hinein. Drinnen liegt [[Koljan Dirowitsch|ihr Vater]] in einem **Holzsarg in der Küche**. Alle Fenster sind zugenagelt, und überall hängen **heilige Symbole**.
 
 ### Irenas Geschichte
 - Strahd kann eigentlich **keine Häuser betreten**, hat aber irgendeinen **Trick** gefunden, um trotzdem hineinzukommen, und hat sie gebissen.
@@ -89,7 +89,7 @@ Später entscheiden sich die anderen doch, vom Herrenhaus aus **ebenfalls zur Ki
 Die [[Kirche von Barovia|Kirche am Stadtrand]] ist äußerst ramponiert. Die schweren Holztüren am Haupteingang sind mit **Krallenspuren bedeckt und vom Feuer verkohlt**. Drinnen liegt ein dunkler, etwa **6 × 4 m** großer Eingangsflur mit **4 Türen** zu angrenzenden Kammern. Er führt zur **Kapelle**. Von **unter dem Holzboden** hören wir einen Schrei.
 
 Vor dem Altar kauert Priester **[[Donawitsch]]**. Die Kirche ist dem **[[Morgenfürst und Mutter Nacht|Morgenfürsten und Mutter Nacht]]** geweiht. Er erzählt:
-- Er hat seinen **[[Sohn von Donawitsch|Sohn]] im Keller eingesperrt**. Seit der Sohn von *irgendeiner Burg* zurückkam, ist er „komisch“.
+- Er hat seinen **[[Doru|Sohn]] im Keller eingesperrt**. Seit der Sohn von *irgendeiner Burg* zurückkam, ist er „komisch“.
 - Seitdem reden die beiden nur noch **durch die Dielen** miteinander.
 - Der Sohn **rührt kein Essen an**. Donawitsch traut sich nicht, die Tür zu öffnen.
 - Rechts neben dem Eingang führt eine **Falltür in die Krypta**.
@@ -98,7 +98,7 @@ Vor dem Altar kauert Priester **[[Donawitsch]]**. Die Kirche ist dem **[[Morgenf
 In einem modrigen Zimmer finden wir die Falltür, und [[Aethren - René|Aethren]] **bricht sie auf**. Unten liegt die Krypta mit morschen Holzpfeilern und modrigem Boden. In der Ecke des Raums befindet sich eine **ausgemergelte Gestalt** … *(Cliffhanger)*
 
 ## Neu kennengelernt
-- **Personen:** [[Ismark]], [[Irena]], [[Ismarks Vater]] (tot), [[Irre Marie]], [[Gertruda]] (nur erwähnt), [[Donawitsch]], [[Sohn von Donawitsch]] (nur gehört)
+- **Personen:** [[Ismark]], [[Irena]], [[Koljan Dirowitsch|Ismarks Vater]] (tot), [[Irre Marie]], [[Gertruda]] (nur erwähnt), [[Donawitsch]], [[Doru]] (nur gehört)
 - **Orte:** [[Taverne in Barovia]], [[Bildraths Laden]], [[Herrenhaus des Bürgermeisters]], [[Kirche von Barovia]], [[Vallaki]] (nur als Ziel)
 - **Gegenstände:** [[Magischer Mantel]] (bei Helena)
 - **Lore:** [[Morgenfürst und Mutter Nacht]]
@@ -117,11 +117,11 @@ In einem modrigen Zimmer finden wir die Falltür, und [[Aethren - René|Aethren]
 - Wer war die tote Person mit dem magischen Mantel?
 
 > [!question] Vermutung (nicht bestätigt)
-> Der Schrei unter dem Holzboden und die Gestalt in der Krypta könnten [[Sohn von Donawitsch|Donawitschs Sohn]] sein.
+> Der Schrei unter dem Holzboden und die Gestalt in der Krypta könnten [[Doru|Donawitschs Sohn]] sein.
 
 ## Zusammenfassung der Session (Narri)
 > [!quote] Zum Vorlesen beim nächsten Mal
-> Ein langer Tag. Er begann in der Taverne mit Ismark, dem Sohn des toten Bürgermeisters. Seine Schwester Irena wurde von Strahd gebissen, und wir sollen sie nach Vallaki bringen. Dort sei sie sicher vor dem Teufel. Wir haben ja gesagt. Natürlich. Bevor wir zu Irena zogen, haben wir noch bei Bildrath wir zum zehnfachen Preis eingekauft. Auf der Straße hörten wir ein bitterliches Schluchzen. Als wir es untersuchten, trafen wir die (wie Ismark sie nannte): "Irre Marie". Wir versprachen Marie, ihre Tochter Gertruda zu suchen. Erst vierzehn Jahre alt und schon verschwunden. Die Puppe hat sie zurückgelassen. Helena fragte Marie und steckte sich die Puppe ein.
+> Ein langer Tag. Er begann in der Taverne mit Ismark, dem Sohn des toten Bürgermeisters. Seine Schwester Irena wurde von Strahd gebissen, und wir sollen sie nach Vallaki bringen. Dort sei sie sicher vor dem Teufel. Wir haben ja gesagt. Natürlich. Bevor wir zu Irena zogen, haben wir noch bei Bildrath zum zehnfachen Preis eingekauft. Auf der Straße hörten wir ein bitterliches Schluchzen. Als wir es untersuchten, trafen wir die (wie Ismark sie nannte): "Irre Marie". Wir versprachen Marie, ihre Tochter Gertruda zu suchen. Erst vierzehn Jahre alt und schon verschwunden. Die Puppe hat sie zurückgelassen. Helena fragte Marie und steckte sich die Puppe ein.
 >
 > Wir zogen weiter. Dann: ein Schrei aus einem Haus. Wir gingen hinein, ohne mit der Wimper zu zucken. Zombies, und Schwärme von Körperteilen, die von selbst angriffen. Wir haben sie alle erledigt. Aber der Schrei hörte auf, bevor wir oben waren. Zu spät.
 >

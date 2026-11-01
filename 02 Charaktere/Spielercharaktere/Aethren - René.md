@@ -25,6 +25,7 @@ tags:
 ## In der Kampagne
 - [[S03 – 2026-10-04 – Abschluss im Durst-Haus|S03]]: **sieht [[Strahd]]**
 - [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: trägt den Sarg zur Kirche und bricht die Falltür zur Krypta auf
+- [[S05 – 2026-11-01 – Die Beerdigung des Bürgermeisters|S05]]: wird von [[Doru]] angegriffen, bereitet mit Narri die Beerdigung vor. Am Galgen hängt plötzlich sein [[Vater von Aethren|Vater]].
 
 > [!abstract]- Originalnotiz
 > Hochelf

@@ -10,7 +10,7 @@ tags:
 # Irena
 
 > [!info] Steckbrief
-> **Rolle:** Tochter des verstorbenen [[Ismarks Vater|Bürgermeisters]] von [[Barovia]]
+> **Rolle:** Tochter des verstorbenen [[Koljan Dirowitsch|Bürgermeisters]] von [[Barovia]]
 > **Alter:** 18/19 Jahre
 > **Aussehen:** langes, kastanienbraunes Haar
 > **Familie:** Schwester von [[Ismark]]
@@ -24,6 +24,7 @@ tags:
 - Sie **vertraut uns**.
 - Bevor sie geht, soll ihr Vater begraben werden. → [[Den Bürgermeister begraben]]
 - Danach sollen wir sie nach [[Vallaki]] eskortieren. → [[Irena nach Vallaki bringen]]
+- [[Donawitsch]] rät, sie in die [[Abtei Sankt Makovia]] in [[Kressk]] zu bringen. Dort sollte sie sicher sein.
 
 ## Auftritte
 - [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: von Ismark erwähnt, dann im Herrenhaus getroffen. Geht mit einem Teil der Gruppe zur [[Kirche von Barovia|Kirche]].

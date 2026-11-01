@@ -22,7 +22,8 @@ tags:
 | Kapelle | [[Donawitsch]] kauert vor dem Altar. Unter dem Holzboden ist ein Schrei zu hören. |
 | Modriges Zimmer (rechts vom Eingang) | Falltür zur Krypta, von [[Aethren - René\|Aethren]] aufgebrochen |
 | Krypta | Morsche Holzpfeiler, modriger Boden, eine ausgemergelte Gestalt in der Ecke |
-| Keller | Hier ist der [[Sohn von Donawitsch]] eingesperrt. |
+| Keller | Hier war [[Doru]] eingesperrt. Hier haben wir gegen ihn gekämpft. |
 
 ## Ereignisse
 - [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: Wir bringen den Sarg des Bürgermeisters her und steigen in die Krypta. *(Cliffhanger)*
+- [[S05 – 2026-11-01 – Die Beerdigung des Bürgermeisters|S05]]: Kampf gegen [[Doru]], Beerdigung von [[Koljan Dirowitsch]], [[Strahd]] erscheint.

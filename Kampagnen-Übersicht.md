@@ -5,14 +5,13 @@ tags:
 ---
 # Curse of Strahd
 
-> [!danger] Wo wir gerade stehen (Ende S04, 18.10.2026)
-> Wir haben [[Irena]] im [[Herrenhaus des Bürgermeisters|Herrenhaus]] gefunden. Bevor sie mit nach [[Vallaki]] kommt, soll ihr Vater begraben werden. Narri, Aethren, der Charakter von Özgür und [[Ismark]] haben den Sarg zur [[Kirche von Barovia|Kirche]] gebracht. Priester [[Donawitsch]] hat dort seinen Sohn im Keller eingesperrt. Wir sind gerade **in die Krypta hinabgestiegen**, und in der Ecke kauert eine **ausgemergelte Gestalt**. Der Rest der Gruppe ist **mit Irena** vom Herrenhaus aus unterwegs zur Kirche.
+> [!danger] Wo wir gerade stehen (Ende S05, 01.11.2026)
+> [[Koljan Dirowitsch]] ist beerdigt, [[Doru]] besiegt. [[Strahd]] ist bei der Beerdigung erschienen und hat uns einen **Besuch angekündigt**. Wir sind mit [[Ismark|Ismarks]] Kutsche Richtung [[Vallaki]] aufgebrochen und von der [[Weggabelung am Galgen|Weggabelung]] weiter zum [[Vistani-Lager]] gezogen. Beim Zurückschauen sehen wir: Am eben noch leeren Galgen hängt der **[[Vater von Aethren]]**.
 >
 > **Stimmung in der Gruppe:** angespannt. [[Helena Aldric - Anna|Helenas]] Dark Gift ist erwacht, und der Streit darüber, ob wir ihr trauen können, ist nur vertagt.
 
 ## Aktive Quests
-- [[Den Bürgermeister begraben]]: für [[Irena]]. Der Sarg ist in der Kirche, Donawitsch soll bestatten.
-- [[Irena nach Vallaki bringen]]: für [[Ismark]]. Irena wurde von Strahd zweimal gebissen.
+- [[Irena nach Vallaki bringen]]: für [[Ismark]]. Irena wurde von Strahd zweimal gebissen. Alternative laut [[Donawitsch]]: [[Abtei Sankt Makovia]] in [[Kressk]].
 - [[Gertruda finden]]: für die [[Irre Marie]]. Gertruda ist 14 und verschwunden.
 
 ```base
@@ -29,9 +28,17 @@ views:
       - start
 ```
 
+## Tischregeln
+- Zug vorher planen
+- Handyverbot
+- Zwischenmenschliche Gespräche in der Pause
+- Alle sollen Notizen machen
+- DnD ist kein Videospiel
+
 ## Sessions
 | #   | Datum      | Session                                                                           | Kurz                                                                           |
 | --- | ---------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 5   | 01.11.2026 | [[S05 – 2026-11-01 – Die Beerdigung des Bürgermeisters\|Die Beerdigung des Bürgermeisters]] | Doru besiegt, Beerdigung, Strahd erscheint, Rabenmenschen, Aethrens Vater am Galgen |
 | 4   | 18.10.2026 | [[S04 – 2026-10-18 – Ein Auftrag von Ismark\|Ein Auftrag von Ismark]]             | Ismarks Auftrag, Zombiekampf, Helenas Dark Gift, Herrenhaus, Kirche und Krypta |
 | 3   | 04.10.2026 | [[S03 – 2026-10-04 – Abschluss im Durst-Haus\|Abschluss im Durst-Haus]]           | Kampf gegen Walter (Fleischmonster), Aethren sieht Strahd                      |
 | 2   | 20.09.2026 | [[S02 – 2026-09-20 – Die Geister der Durst-Kinder\|Die Geister der Durst-Kinder]] | Geister-Companions, Altar im Keller                                            |
@@ -70,15 +77,16 @@ views:
 ```
 
 ## Große offene Fragen
-- Wer ist die Gestalt in der Krypta, und was ist mit [[Sohn von Donawitsch|Donawitschs Sohn]] los?
+- Wie kommt der [[Vater von Aethren]] an den Galgen?
+- Wann stattet uns [[Strahd]] den angekündigten Besuch ab?
 - Welchen Trick nutzt [[Strahd]], um Häuser zu betreten?
-- Was passiert mit [[Irena]] nach Strahds Bissen?
+- Was passiert mit [[Irena]] nach Strahds Bissen? ([[Doru]] wurde zum Vampir.)
 - Was ist Helenas Dark Gift?
 - Was steht im [[Brief mit D-Siegel]]?
 - Wer oder was sind die [[Priester von Osybus]]?
 - Wo ist die Windmühle der [[Familie Durst]]? → [[Windmühlen-Symbol]]
 
 ## Schnellzugriff
-**Orte:** [[Barovia]] · [[Durst-Haus]] · [[Taverne in Barovia]] · [[Bildraths Laden]] · [[Herrenhaus des Bürgermeisters]] · [[Kirche von Barovia]] · [[Vallaki]]
+**Orte:** [[Barovia]] · [[Durst-Haus]] · [[Taverne in Barovia]] · [[Bildraths Laden]] · [[Herrenhaus des Bürgermeisters]] · [[Kirche von Barovia]] · [[Vallaki]] · [[Kressk]] · [[Abtei Sankt Makovia]] · [[Weggabelung am Galgen]] · [[Vistani-Lager]] · [[Tzer-Tümpel]]
 **Lore:** [[Morgenfürst und Mutter Nacht]] · [[Priester von Osybus]]
 **Hinweise:** [[Brief von Strahd an seinen Diener]] · [[Brief von Klara]] · [[Notiz von Elisabeth an Drasha]] · [[Bernsteinsplitter]] · [[Magischer Mantel]] · [[Testament der Familie Durst]]

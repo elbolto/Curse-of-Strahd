@@ -11,7 +11,7 @@ tags:
 # Herrenhaus des Bürgermeisters
 
 > [!info] Überblick
-> Am Ende der Straße in [[Barovia]]. Es gehörte [[Ismarks Vater]] und gehört jetzt [[Ismark]]. Hier lebt [[Irena]].
+> Am Ende der Straße in [[Barovia]]. Es gehörte [[Koljan Dirowitsch|Ismarks Vater]] und gehört jetzt [[Ismark]]. Hier lebt [[Irena]].
 > **Eindruck:** eher wie ein Horrorhaus als einladend
 
 ## Beschreibung

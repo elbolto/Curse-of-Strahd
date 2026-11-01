@@ -101,6 +101,7 @@ Das ist lustig und thematisch stark: Er versucht ständig, Dinge zu reparieren, 
 - [[S01 – 2026-08-31 – Das Durst-Haus|S01]]: findet eine Leiche mit dem [[Brief mit D-Siegel]]
 - [[S02 – 2026-09-20 – Die Geister der Durst-Kinder|S02]]: wird von einem Besen angegriffen, findet den [[Bernsteinsplitter]] und den Walzer am Cembalo
 - [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: trägt den Sarg des Bürgermeisters zur [[Kirche von Barovia|Kirche]] und steigt in die Krypta
+- [[S05 – 2026-11-01 – Die Beerdigung des Bürgermeisters|S05]]: bereitet mit Aethren die Beerdigung vor und schüchtert [[Strahd]] ein
 - **Besitzt:** [[Bernsteinsplitter]]
 
 ## Offene Fragen

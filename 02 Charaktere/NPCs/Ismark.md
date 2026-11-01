@@ -13,7 +13,7 @@ tags:
 # Ismark
 
 > [!info] Steckbrief
-> **Rolle:** Sohn des verstorbenen [[Ismarks Vater|Bürgermeisters]] von [[Barovia]], bald selbst Bürgermeister
+> **Rolle:** Sohn des verstorbenen [[Koljan Dirowitsch|Bürgermeisters]] von [[Barovia]], bald selbst Bürgermeister
 > **Wohnt:** [[Herrenhaus des Bürgermeisters]] (gehört jetzt ihm)
 > **Familie:** Bruder von [[Irena]]
 > **Beziehung zu uns:** Auftraggeber ([[Irena nach Vallaki bringen]])
@@ -24,6 +24,7 @@ tags:
 - Er bittet uns, seine Schwester [[Irena]] nach [[Vallaki]] zu bringen, weil [[Strahd]] sie gebissen hat.
 - Er kennt den **Klopf-Code** für das Herrenhaus.
 - Er hat [[Helena Aldric - Anna|Helena]] mit einem **Armbrustbolzen** niedergestreckt, als sie besessen davonrannte.
+- Wir fahren mit seiner **Kutsche** nach [[Vallaki]] ([[S05 – 2026-11-01 – Die Beerdigung des Bürgermeisters|S05]]).
 - Er trägt mit uns den Sarg seines Vaters zur [[Kirche von Barovia|Kirche]].
 
 ## Auftritte

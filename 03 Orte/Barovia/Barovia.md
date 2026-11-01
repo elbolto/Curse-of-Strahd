@@ -26,12 +26,13 @@ tags:
 - [[Ismark]]: Sohn des verstorbenen Bürgermeisters, unser Auftraggeber
 - [[Irena]]: seine Schwester, von Strahd gebissen
 - [[Irre Marie]]: sucht ihre Tochter [[Gertruda]]
-- [[Donawitsch]]: Priester, hat seinen [[Sohn von Donawitsch|Sohn]] eingesperrt
-- [[Ismarks Vater]]: der verstorbene Bürgermeister
+- [[Donawitsch]]: Priester, Vater von [[Doru]]
+- [[Koljan Dirowitsch]]: der verstorbene Bürgermeister
 
 ## Ereignisse
 - [[S01 – 2026-08-31 – Das Durst-Haus|S01]]: Ankunft, Narri findet eine Leiche mit dem [[Brief mit D-Siegel]]
 - [[S04 – 2026-10-18 – Ein Auftrag von Ismark|S04]]: Zombieangriff in einem Haus, Herrenhaus, Kirche
+- [[S05 – 2026-11-01 – Die Beerdigung des Bürgermeisters|S05]]: Kampf gegen Doru, Beerdigung, Strahd erscheint, Aufbruch mit der Kutsche
 
 ## Gefahren
 - Nachts kommen **Wölfe**.
